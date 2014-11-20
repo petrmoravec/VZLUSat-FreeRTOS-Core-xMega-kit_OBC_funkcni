@@ -1,0 +1,2559 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+                              libscp/src/csp_conn.o (__divmodhi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+                              libscp/src/arch/freertos/csp_system.o (__tablejump2__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+                              FreeRTOS/Source/tasks.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+                              cspTask.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+                              libscp/src/arch/freertos/csp_time.o (__umulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+                              libscp/src/csp_endian.o (__ashldi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+                              libscp/src/csp_endian.o (__lshrdi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o)
+                              libscp/src/csp_conn.o (rand)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ftoa_engine.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcmp.o)
+                              libscp/src/csp_crc32.o (memcmp)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcpy.o)
+                              FreeRTOS/Source/queue.o (memcpy)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memset.o)
+                              FreeRTOS/Source/tasks.o (memset)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strcat.o)
+                              FreeRTOS/Source/tasks.o (strcat)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncmp.o)
+                              libscp/src/csp_route.o (strncmp)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncpy.o)
+                              FreeRTOS/Source/tasks.o (strncpy)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen.o)
+                              libscp/src/csp_service_handler.o (strnlen)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa.o)
+                              MyDrivers/usart_driver_RTOS.o (__itoa)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa_ncheck.o)
+                              mainTask.o (__itoa_ncheck)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(utoa_ncheck.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa_ncheck.o) (__utoa_common)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+                              libscp/src/csp_debug.o (__iob)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(printf_p.o)
+                              libscp/src/arch/freertos/csp_system.o (printf_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(sprintf.o)
+                              FreeRTOS/Source/tasks.o (sprintf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vfprintf_p.o)
+                              libscp/src/csp_debug.o (vfprintf_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vsnprintf.o)
+                              libscp/src/csp_debug.o (vsnprintf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strrev.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(utoa_ncheck.o) (strrev)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o) (__divmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o) (__muluhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o) (__mulohisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+twi_csp_slave       0x52              csp_interface.o
+timediff            0x2               mainTask.o
+xCSPEventQueue      0x2               cspTask.o
+hoursTimer          0x4               system.o
+my_address          0x1               libscp/src/csp_io.o
+milisecondsTimer    0x4               system.o
+usartBufferF        0x2               MyDrivers/usart_driver_RTOS.o
+usartBufferE        0x2               MyDrivers/usart_driver_RTOS.o
+twi_csp_master      0x52              csp_interface.o
+callbackFunction    0x2               csp_interface.o
+secondsTimer        0x4               system.o
+usartBufferD        0x2               MyDrivers/usart_driver_RTOS.o
+pingSent            0x4               mainTask.o
+pc_usart_buffer     0x2               system.o
+__iob               0x6               c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+usartBufferC        0x2               MyDrivers/usart_driver_RTOS.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+ .text          0x00000000        0x0 cspTask.o
+ .bss           0x00000000        0x0 cspTask.o
+ .text          0x00000000        0x0 csp_interface.o
+ .bss           0x00000000        0x0 csp_interface.o
+ .text          0x00000000        0x0 FreeRTOS/Port/heap_1.o
+ .bss           0x00000000        0x0 FreeRTOS/Port/heap_1.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0xa FreeRTOS/Port/heap_1.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x12 FreeRTOS/Port/heap_1.o
+ .text          0x00000000        0x0 FreeRTOS/Port/port.o
+ .bss           0x00000000        0x0 FreeRTOS/Port/port.o
+ .text.vPortEndScheduler
+                0x00000000        0x2 FreeRTOS/Port/port.o
+ .text          0x00000000        0x0 FreeRTOS/Source/croutine.o
+ .bss           0x00000000        0x0 FreeRTOS/Source/croutine.o
+ .text.xCoRoutineCreate
+                0x00000000       0xd4 FreeRTOS/Source/croutine.o
+ .text.vCoRoutineAddToDelayedList
+                0x00000000       0x86 FreeRTOS/Source/croutine.o
+ .text.vCoRoutineSchedule
+                0x00000000      0x26e FreeRTOS/Source/croutine.o
+ .text.xCoRoutineRemoveFromEventList
+                0x00000000       0x4a FreeRTOS/Source/croutine.o
+ .bss.xPassedTicks
+                0x00000000        0x2 FreeRTOS/Source/croutine.o
+ .bss.xLastTickCount
+                0x00000000        0x2 FreeRTOS/Source/croutine.o
+ .bss.xCoRoutineTickCount
+                0x00000000        0x2 FreeRTOS/Source/croutine.o
+ .bss.uxTopCoRoutineReadyPriority
+                0x00000000        0x1 FreeRTOS/Source/croutine.o
+ .bss.pxCurrentCoRoutine
+                0x00000000        0x2 FreeRTOS/Source/croutine.o
+ .bss.xPendingReadyCoRoutineList
+                0x00000000        0x9 FreeRTOS/Source/croutine.o
+ .bss.pxOverflowDelayedCoRoutineList
+                0x00000000        0x2 FreeRTOS/Source/croutine.o
+ .bss.pxDelayedCoRoutineList
+                0x00000000        0x2 FreeRTOS/Source/croutine.o
+ .bss.xDelayedCoRoutineList2
+                0x00000000        0x9 FreeRTOS/Source/croutine.o
+ .bss.xDelayedCoRoutineList1
+                0x00000000        0x9 FreeRTOS/Source/croutine.o
+ .bss.pxReadyCoRoutineLists
+                0x00000000        0x0 FreeRTOS/Source/croutine.o
+ .text          0x00000000        0x0 FreeRTOS/Source/list.o
+ .bss           0x00000000        0x0 FreeRTOS/Source/list.o
+ .text          0x00000000        0x0 FreeRTOS/Source/queue.o
+ .bss           0x00000000        0x0 FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000        0x6 FreeRTOS/Source/queue.o
+ .text.vQueueDelete
+                0x00000000       0x1a FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000        0xc FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000        0xe FreeRTOS/Source/queue.o
+ .text          0x00000000        0x0 FreeRTOS/Source/tasks.o
+ .bss           0x00000000        0x0 FreeRTOS/Source/tasks.o
+ .text.xTaskIsTaskSuspended
+                0x00000000       0x2c FreeRTOS/Source/tasks.o
+ .text.vTaskResume
+                0x00000000       0x86 FreeRTOS/Source/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0x90 FreeRTOS/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000        0xc FreeRTOS/Source/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000        0xa FreeRTOS/Source/tasks.o
+ .text.vTaskStartTrace
+                0x00000000       0x32 FreeRTOS/Source/tasks.o
+ .text.ulTaskEndTrace
+                0x00000000       0x2c FreeRTOS/Source/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000       0x94 FreeRTOS/Source/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0x9e FreeRTOS/Source/tasks.o
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x32 FreeRTOS/Source/tasks.o
+ .bss.pcTraceBufferStart
+                0x00000000        0x2 FreeRTOS/Source/tasks.o
+ .text          0x00000000        0x0 FreeRTOS/Source/timers.o
+ .bss           0x00000000        0x0 FreeRTOS/Source/timers.o
+ .text.xTimerCreate
+                0x00000000       0x70 FreeRTOS/Source/timers.o
+ .text.xTimerIsTimerActive
+                0x00000000       0x1a FreeRTOS/Source/timers.o
+ .text.pvTimerGetTimerID
+                0x00000000        0x8 FreeRTOS/Source/timers.o
+ .text          0x00000000        0x0 libscp/src/arch/freertos/csp_malloc.o
+ .bss           0x00000000        0x0 libscp/src/arch/freertos/csp_malloc.o
+ .text          0x00000000        0x0 libscp/src/arch/freertos/csp_queue.o
+ .bss           0x00000000        0x0 libscp/src/arch/freertos/csp_queue.o
+ .text.csp_queue_remove
+                0x00000000        0x6 libscp/src/arch/freertos/csp_queue.o
+ .text.csp_queue_dequeue_isr
+                0x00000000        0xc libscp/src/arch/freertos/csp_queue.o
+ .text.csp_queue_size_isr
+                0x00000000        0x8 libscp/src/arch/freertos/csp_queue.o
+ .text          0x00000000        0x0 libscp/src/arch/freertos/csp_semaphore.o
+ .bss           0x00000000        0x0 libscp/src/arch/freertos/csp_semaphore.o
+ .text.csp_bin_sem_remove
+                0x00000000       0x18 libscp/src/arch/freertos/csp_semaphore.o
+ .text.csp_mutex_remove
+                0x00000000        0x6 libscp/src/arch/freertos/csp_semaphore.o
+ .text.csp_mutex_lock
+                0x00000000        0x6 libscp/src/arch/freertos/csp_semaphore.o
+ .text.csp_mutex_unlock
+                0x00000000        0x6 libscp/src/arch/freertos/csp_semaphore.o
+ .text.csp_bin_sem_post_isr
+                0x00000000       0x22 libscp/src/arch/freertos/csp_semaphore.o
+ .text          0x00000000        0x0 libscp/src/arch/freertos/csp_system.o
+ .bss           0x00000000        0x0 libscp/src/arch/freertos/csp_system.o
+ .text.csp_sys_set_color
+                0x00000000       0xa2 libscp/src/arch/freertos/csp_system.o
+ .progmem.gcc_sw_table.csp_sys_set_color
+                0x00000000       0x10 libscp/src/arch/freertos/csp_system.o
+ .progmem.data.__c.4830
+                0x00000000        0x9 libscp/src/arch/freertos/csp_system.o
+ .text          0x00000000        0x0 libscp/src/arch/freertos/csp_thread.o
+ .bss           0x00000000        0x0 libscp/src/arch/freertos/csp_thread.o
+ .text          0x00000000        0x0 libscp/src/arch/freertos/csp_time.o
+ .bss           0x00000000        0x0 libscp/src/arch/freertos/csp_time.o
+ .text.csp_get_ms_isr
+                0x00000000        0xc libscp/src/arch/freertos/csp_time.o
+ .text.csp_get_s_isr
+                0x00000000       0x2e libscp/src/arch/freertos/csp_time.o
+ .text          0x00000000        0x0 libscp/src/crypto/csp_hmac.o
+ .bss           0x00000000        0x0 libscp/src/crypto/csp_hmac.o
+ .text          0x00000000        0x0 libscp/src/crypto/csp_sha1.o
+ .bss           0x00000000        0x0 libscp/src/crypto/csp_sha1.o
+ .text          0x00000000        0x0 libscp/src/crypto/csp_xtea.o
+ .bss           0x00000000        0x0 libscp/src/crypto/csp_xtea.o
+ .text          0x00000000        0x0 libscp/src/csp_buffer.o
+ .bss           0x00000000        0x0 libscp/src/csp_buffer.o
+ .text.csp_buffer_get_isr
+                0x00000000       0x78 libscp/src/csp_buffer.o
+ .text.csp_buffer_clone
+                0x00000000       0x44 libscp/src/csp_buffer.o
+ .text.csp_buffer_size
+                0x00000000        0xa libscp/src/csp_buffer.o
+ .text          0x00000000        0x0 libscp/src/csp_conn.o
+ .bss           0x00000000        0x0 libscp/src/csp_conn.o
+ .text.csp_conn_check_timeouts
+                0x00000000        0x2 libscp/src/csp_conn.o
+ .text.csp_conn_get_rxq
+                0x00000000        0x6 libscp/src/csp_conn.o
+ .text.csp_conn_lock
+                0x00000000       0x16 libscp/src/csp_conn.o
+ .text.csp_conn_unlock
+                0x00000000        0xc libscp/src/csp_conn.o
+ .text.csp_connect
+                0x00000000      0x184 libscp/src/csp_conn.o
+ .text.csp_conn_sport
+                0x00000000        0xa libscp/src/csp_conn.o
+ .text.csp_conn_dst
+                0x00000000       0x16 libscp/src/csp_conn.o
+ .text.csp_conn_src
+                0x00000000        0xc libscp/src/csp_conn.o
+ .text.csp_conn_flags
+                0x00000000        0x8 libscp/src/csp_conn.o
+ .text          0x00000000        0x0 libscp/src/csp_crc32.o
+ .bss           0x00000000        0x0 libscp/src/csp_crc32.o
+ .text          0x00000000        0x0 libscp/src/csp_debug.o
+ .bss           0x00000000        0x0 libscp/src/csp_debug.o
+ .text.csp_debug_hook_set
+                0x00000000        0xa libscp/src/csp_debug.o
+ .text.do_csp_debug
+                0x00000000       0xe2 libscp/src/csp_debug.o
+ .progmem.gcc_sw_table.do_csp_debug
+                0x00000000        0xe libscp/src/csp_debug.o
+ .text.csp_debug_set_level
+                0x00000000       0x10 libscp/src/csp_debug.o
+ .text.csp_debug_get_level
+                0x00000000       0x18 libscp/src/csp_debug.o
+ .text.csp_debug_toggle_level
+                0x00000000       0x52 libscp/src/csp_debug.o
+ .progmem.data.__c.4676
+                0x00000000       0x15 libscp/src/csp_debug.o
+ .progmem.data.__c.4674
+                0x00000000       0x11 libscp/src/csp_debug.o
+ .data.csp_debug_level_enabled
+                0x00000000        0x7 libscp/src/csp_debug.o
+ .bss.csp_debug_hook_func
+                0x00000000        0x2 libscp/src/csp_debug.o
+ .text          0x00000000        0x0 libscp/src/csp_endian.o
+ .bss           0x00000000        0x0 libscp/src/csp_endian.o
+ .text.csp_hton16
+                0x00000000        0x8 libscp/src/csp_endian.o
+ .text.csp_ntoh16
+                0x00000000        0x8 libscp/src/csp_endian.o
+ .text.csp_hton64
+                0x00000000      0x166 libscp/src/csp_endian.o
+ .text.csp_ntoh64
+                0x00000000      0x166 libscp/src/csp_endian.o
+ .text.csp_htobe16
+                0x00000000        0x8 libscp/src/csp_endian.o
+ .text.csp_htole16
+                0x00000000        0x2 libscp/src/csp_endian.o
+ .text.csp_betoh16
+                0x00000000        0x8 libscp/src/csp_endian.o
+ .text.csp_letoh16
+                0x00000000        0x2 libscp/src/csp_endian.o
+ .text.csp_htobe32
+                0x00000000       0x6a libscp/src/csp_endian.o
+ .text.csp_htole32
+                0x00000000        0x2 libscp/src/csp_endian.o
+ .text.csp_betoh32
+                0x00000000       0x6a libscp/src/csp_endian.o
+ .text.csp_letoh32
+                0x00000000        0x2 libscp/src/csp_endian.o
+ .text.csp_htobe64
+                0x00000000      0x166 libscp/src/csp_endian.o
+ .text.csp_htole64
+                0x00000000        0x2 libscp/src/csp_endian.o
+ .text.csp_betoh64
+                0x00000000      0x166 libscp/src/csp_endian.o
+ .text.csp_letoh64
+                0x00000000        0x2 libscp/src/csp_endian.o
+ .text          0x00000000        0x0 libscp/src/csp_io.o
+ .bss           0x00000000        0x0 libscp/src/csp_io.o
+ .text.csp_set_hostname
+                0x00000000        0xa libscp/src/csp_io.o
+ .text.csp_set_model
+                0x00000000        0xa libscp/src/csp_io.o
+ .text.csp_send_prio
+                0x00000000       0x28 libscp/src/csp_io.o
+ .text.csp_transaction_persistent
+                0x00000000       0xfe libscp/src/csp_io.o
+ .text.csp_transaction
+                0x00000000       0xa8 libscp/src/csp_io.o
+ .text.csp_recvfrom
+                0x00000000       0x56 libscp/src/csp_io.o
+ .text.csp_sendto_reply
+                0x00000000       0x72 libscp/src/csp_io.o
+ .text          0x00000000        0x0 libscp/src/csp_port.o
+ .bss           0x00000000        0x0 libscp/src/csp_port.o
+ .text          0x00000000        0x0 libscp/src/csp_route.o
+ .bss           0x00000000        0x0 libscp/src/csp_route.o
+ .text.csp_route_table_load
+                0x00000000       0x12 libscp/src/csp_route.o
+ .text.csp_route_table_save
+                0x00000000       0x12 libscp/src/csp_route.o
+ .text.csp_route_get_fifo
+                0x00000000        0x6 libscp/src/csp_route.o
+ .text          0x00000000        0x0 libscp/src/csp_services.o
+ .bss           0x00000000        0x0 libscp/src/csp_services.o
+ .text.csp_ping
+                0x00000000      0x158 libscp/src/csp_services.o
+ .text.csp_ping_noreply
+                0x00000000       0x9c libscp/src/csp_services.o
+ .text.csp_reboot
+                0x00000000       0x7e libscp/src/csp_services.o
+ .text.csp_ps   0x00000000       0xfa libscp/src/csp_services.o
+ .text.csp_memfree
+                0x00000000       0xb0 libscp/src/csp_services.o
+ .text.csp_buf_free
+                0x00000000       0xb8 libscp/src/csp_services.o
+ .text.csp_uptime
+                0x00000000       0xb8 libscp/src/csp_services.o
+ .text.csp_cmp  0x00000000       0x52 libscp/src/csp_services.o
+ .progmem.data.__c.4958
+                0x00000000       0x1d libscp/src/csp_services.o
+ .progmem.data.__c.4956
+                0x00000000       0x10 libscp/src/csp_services.o
+ .progmem.data.__c.4948
+                0x00000000       0x21 libscp/src/csp_services.o
+ .progmem.data.__c.4946
+                0x00000000       0x10 libscp/src/csp_services.o
+ .progmem.data.__c.4938
+                0x00000000       0x26 libscp/src/csp_services.o
+ .progmem.data.__c.4936
+                0x00000000       0x10 libscp/src/csp_services.o
+ .progmem.data.__c.4928
+                0x00000000        0x3 libscp/src/csp_services.o
+ .progmem.data.__c.4925
+                0x00000000        0x3 libscp/src/csp_services.o
+ .progmem.data.__c.4922
+                0x00000000        0xf libscp/src/csp_services.o
+ .progmem.data.__c.4909
+                0x00000000       0x1d libscp/src/csp_services.o
+ .text          0x00000000        0x0 libscp/src/csp_service_handler.o
+ .bss           0x00000000        0x0 libscp/src/csp_service_handler.o
+ .text          0x00000000        0x0 libscp/src/csp_sfp.o
+ .bss           0x00000000        0x0 libscp/src/csp_sfp.o
+ .text.csp_sfp_send
+                0x00000000      0x160 libscp/src/csp_sfp.o
+ .text.csp_sfp_recv
+                0x00000000      0x19e libscp/src/csp_sfp.o
+ .text          0x00000000        0x0 libscp/src/interfaces/csp_if_i2c.o
+ .bss           0x00000000        0x0 libscp/src/interfaces/csp_if_i2c.o
+ .text          0x00000000        0x0 libscp/src/interfaces/csp_if_lo.o
+ .bss           0x00000000        0x0 libscp/src/interfaces/csp_if_lo.o
+ .text          0x00000000        0x0 libscp/src/transport/csp_rdp.o
+ .bss           0x00000000        0x0 libscp/src/transport/csp_rdp.o
+ .text          0x00000000        0x0 libscp/src/transport/csp_udp.o
+ .bss           0x00000000        0x0 libscp/src/transport/csp_udp.o
+ .text          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 mainTask.o
+ .bss           0x00000000        0x0 mainTask.o
+ .text          0x00000000        0x0 MyDrivers/port_driver.o
+ .bss           0x00000000        0x0 MyDrivers/port_driver.o
+ .text.PORT_ConfigureInterrupt0
+                0x00000000        0xe MyDrivers/port_driver.o
+ .text.PORT_ConfigureInterrupt1
+                0x00000000        0xe MyDrivers/port_driver.o
+ .text          0x00000000        0x0 MyDrivers/TC_driver.o
+ .bss           0x00000000        0x0 MyDrivers/TC_driver.o
+ .text.TC0_ConfigWGM
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC1_ConfigWGM
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_ConfigInputCapture
+                0x00000000        0xe MyDrivers/TC_driver.o
+ .text.TC1_ConfigInputCapture
+                0x00000000        0xe MyDrivers/TC_driver.o
+ .text.TC0_EnableCCChannels
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC1_EnableCCChannels
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_DisableCCChannels
+                0x00000000        0xe MyDrivers/TC_driver.o
+ .text.TC1_DisableCCChannels
+                0x00000000        0xe MyDrivers/TC_driver.o
+ .text.TC0_SetErrorIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC1_SetErrorIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_SetCCAIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC1_SetCCAIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_SetCCBIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC1_SetCCBIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_SetCCCIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_SetCCDIntLevel
+                0x00000000        0xc MyDrivers/TC_driver.o
+ .text.TC0_Reset
+                0x00000000        0xe MyDrivers/TC_driver.o
+ .text.TC1_Reset
+                0x00000000        0xe MyDrivers/TC_driver.o
+ .text          0x00000000        0x0 MyDrivers/twi_master_driver.o
+ .bss           0x00000000        0x0 MyDrivers/twi_master_driver.o
+ .text.TWI_MasterState
+                0x00000000        0xc MyDrivers/twi_master_driver.o
+ .text.TWI_MasterReady
+                0x00000000        0xc MyDrivers/twi_master_driver.o
+ .text.TWI_MasterRead
+                0x00000000       0x12 MyDrivers/twi_master_driver.o
+ .text.TWI_MasterTransactionFinished
+                0x00000000        0xe MyDrivers/twi_master_driver.o
+ .text          0x00000000        0x0 MyDrivers/twi_slave_driver.o
+ .bss           0x00000000        0x0 MyDrivers/twi_slave_driver.o
+ .text          0x00000000        0x0 MyDrivers/usart_driver_RTOS.o
+ .bss           0x00000000        0x0 MyDrivers/usart_driver_RTOS.o
+ .text.USARTF0_RXC_vect
+                0x00000000       0xb0 MyDrivers/usart_driver_RTOS.o
+ .text.USARTF0_DRE_vect
+                0x00000000       0xc6 MyDrivers/usart_driver_RTOS.o
+ .rodata.str1.1
+                0x00000000       0x1e MyDrivers/usart_driver_RTOS.o
+ .text.usartBufferPutInt
+                0x00000000       0x42 MyDrivers/usart_driver_RTOS.o
+ .text.USART_RXComplete
+                0x00000000       0x40 MyDrivers/usart_driver_RTOS.o
+ .text.USART_DataRegEmpty
+                0x00000000       0x58 MyDrivers/usart_driver_RTOS.o
+ .text          0x00000000        0x0 system.o
+ .bss           0x00000000        0x0 system.o
+ .text          0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .bss           0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_disable_module
+                0x00000000       0x16 src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_enable_usb
+                0x00000000       0x3a src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_disable_usb
+                0x00000000       0x14 src/ASF/common/services/clock/xmega/sysclk.o
+ .text          0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .bss           0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .text.ioport_configure_port_pin
+                0x00000000       0x50 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_read_device_serial
+                0x00000000       0x90 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_read_byte
+                0x00000000       0x22 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_read_buffer
+                0x00000000       0x30 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_flush_buffer
+                0x00000000       0x24 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_load_byte_to_buffer
+                0x00000000       0x24 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_write_byte
+                0x00000000       0x52 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_load_page_to_buffer
+                0x00000000       0x40 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_atomic_write_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_and_write_buffer
+                0x00000000       0x88 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_split_write_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_fill_buffer_with_value
+                0x00000000       0x2a src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_bytes_in_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_page
+                0x00000000       0x14 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_bytes_in_all_pages
+                0x00000000       0x2e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_all
+                0x00000000        0xc src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_issue_flash_range_crc
+                0x00000000       0x5a src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_flash_read_buffer
+                0x00000000       0x32 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_user_sig_read_buffer
+                0x00000000       0x3e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_user_sig_write_buffer
+                0x00000000      0x148 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_flash_erase_and_write_buffer
+                0x00000000      0x1b8 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_fuses_read
+                0x00000000       0x32 src/ASF/xmega/drivers/nvm/nvm.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .text.nvm_read_byte
+                0x00000000       0x14 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .BOOT          0x00000000       0x44 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc.builtins
+                0x00000000       0x32 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc.builtins
+                0x00000000       0x3c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strcat.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strcat.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa_ncheck.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+ COMMON         0x00000000        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(printf_p.o)
+ .text.avr-libc
+                0x00000000       0x48 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(printf_p.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vfprintf_p.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vfprintf_p.o)
+ .text.avr-libc
+                0x00000000       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vfprintf_p.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vsnprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vsnprintf.o)
+ .text.avr-libc
+                0x00000000       0x66 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vsnprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strrev.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strrev.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+LOAD cspTask.o
+LOAD csp_interface.o
+LOAD FreeRTOS/Port/heap_1.o
+LOAD FreeRTOS/Port/port.o
+LOAD FreeRTOS/Source/croutine.o
+LOAD FreeRTOS/Source/list.o
+LOAD FreeRTOS/Source/queue.o
+LOAD FreeRTOS/Source/tasks.o
+LOAD FreeRTOS/Source/timers.o
+LOAD libscp/src/arch/freertos/csp_malloc.o
+LOAD libscp/src/arch/freertos/csp_queue.o
+LOAD libscp/src/arch/freertos/csp_semaphore.o
+LOAD libscp/src/arch/freertos/csp_system.o
+LOAD libscp/src/arch/freertos/csp_thread.o
+LOAD libscp/src/arch/freertos/csp_time.o
+LOAD libscp/src/crypto/csp_hmac.o
+LOAD libscp/src/crypto/csp_sha1.o
+LOAD libscp/src/crypto/csp_xtea.o
+LOAD libscp/src/csp_buffer.o
+LOAD libscp/src/csp_conn.o
+LOAD libscp/src/csp_crc32.o
+LOAD libscp/src/csp_debug.o
+LOAD libscp/src/csp_endian.o
+LOAD libscp/src/csp_io.o
+LOAD libscp/src/csp_port.o
+LOAD libscp/src/csp_route.o
+LOAD libscp/src/csp_services.o
+LOAD libscp/src/csp_service_handler.o
+LOAD libscp/src/csp_sfp.o
+LOAD libscp/src/interfaces/csp_if_i2c.o
+LOAD libscp/src/interfaces/csp_if_lo.o
+LOAD libscp/src/transport/csp_rdp.o
+LOAD libscp/src/transport/csp_udp.o
+LOAD main.o
+LOAD mainTask.o
+LOAD MyDrivers/port_driver.o
+LOAD MyDrivers/TC_driver.o
+LOAD MyDrivers/twi_master_driver.o
+LOAD MyDrivers/twi_slave_driver.o
+LOAD MyDrivers/usart_driver_RTOS.o
+LOAD system.o
+LOAD src/ASF/common/services/clock/xmega/sysclk.o
+LOAD src/ASF/common/services/ioport/xmega/ioport_compat.o
+LOAD src/ASF/xmega/drivers/nvm/nvm.o
+LOAD src/ASF/xmega/drivers/nvm/nvm_asm.o
+LOAD src/ASF/xmega/drivers/cpu/ccp.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x5b74
+ *(.vectors)
+ .vectors       0x00000000      0x1fc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.csp_service_handler
+                0x000001fc        0xe libscp/src/csp_service_handler.o
+                0x0000020a                . = ALIGN (0x2)
+                0x0000020a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000020a        0x0 linker stubs
+ *(.trampolines*)
+                0x0000020a                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.crc_tab
+                0x0000020a      0x400 libscp/src/csp_crc32.o
+ .progmem.data  0x0000060a        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+ .progmem.data  0x00000612       0xfa c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ftoa_engine.o)
+                0x0000070c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000070c                __ctors_start = .
+ *(.ctors)
+                0x0000070c                __ctors_end = .
+                0x0000070c                __dtors_start = .
+ *(.dtors)
+                0x0000070c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000070c        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+                0x0000070c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000070c       0x18 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000724       0x1c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+                0x00000724                __do_copy_data
+ .init4         0x00000740       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+                0x00000740                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000750        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+ *(.init9)
+ *(.text)
+ .text          0x00000758        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+                0x00000758                __vector_38
+                0x00000758                __vector_104
+                0x00000758                __vector_22
+                0x00000758                __vector_63
+                0x00000758                __vector_28
+                0x00000758                __vector_67
+                0x00000758                __vector_1
+                0x00000758                __vector_119
+                0x00000758                __vector_32
+                0x00000758                __vector_75
+                0x00000758                __vector_71
+                0x00000758                __vector_91
+                0x00000758                __vector_34
+                0x00000758                __vector_62
+                0x00000758                __vector_77
+                0x00000758                __vector_102
+                0x00000758                __vector_24
+                0x00000758                __vector_55
+                0x00000758                __vector_69
+                0x00000758                __vector_81
+                0x00000758                __vector_90
+                0x00000758                __vector_46
+                0x00000758                __bad_interrupt
+                0x00000758                __vector_122
+                0x00000758                __vector_72
+                0x00000758                __vector_114
+                0x00000758                __vector_6
+                0x00000758                __vector_110
+                0x00000758                __vector_31
+                0x00000758                __vector_92
+                0x00000758                __vector_35
+                0x00000758                __vector_78
+                0x00000758                __vector_74
+                0x00000758                __vector_117
+                0x00000758                __vector_39
+                0x00000758                __vector_107
+                0x00000758                __vector_3
+                0x00000758                __vector_105
+                0x00000758                __vector_98
+                0x00000758                __vector_23
+                0x00000758                __vector_68
+                0x00000758                __vector_30
+                0x00000758                __vector_73
+                0x00000758                __vector_45
+                0x00000758                __vector_93
+                0x00000758                __vector_61
+                0x00000758                __vector_11
+                0x00000758                __vector_54
+                0x00000758                __vector_99
+                0x00000758                __vector_17
+                0x00000758                __vector_19
+                0x00000758                __vector_56
+                0x00000758                __vector_7
+                0x00000758                __vector_125
+                0x00000758                __vector_49
+                0x00000758                __vector_123
+                0x00000758                __vector_41
+                0x00000758                __vector_86
+                0x00000758                __vector_100
+                0x00000758                __vector_101
+                0x00000758                __vector_64
+                0x00000758                __vector_109
+                0x00000758                __vector_43
+                0x00000758                __vector_27
+                0x00000758                __vector_5
+                0x00000758                __vector_113
+                0x00000758                __vector_33
+                0x00000758                __vector_76
+                0x00000758                __vector_115
+                0x00000758                __vector_47
+                0x00000758                __vector_52
+                0x00000758                __vector_37
+                0x00000758                __vector_95
+                0x00000758                __vector_103
+                0x00000758                __vector_96
+                0x00000758                __vector_108
+                0x00000758                __vector_4
+                0x00000758                __vector_44
+                0x00000758                __vector_82
+                0x00000758                __vector_106
+                0x00000758                __vector_118
+                0x00000758                __vector_51
+                0x00000758                __vector_9
+                0x00000758                __vector_2
+                0x00000758                __vector_21
+                0x00000758                __vector_15
+                0x00000758                __vector_66
+                0x00000758                __vector_36
+                0x00000758                __vector_79
+                0x00000758                __vector_70
+                0x00000758                __vector_83
+                0x00000758                __vector_29
+                0x00000758                __vector_60
+                0x00000758                __vector_121
+                0x00000758                __vector_40
+                0x00000758                __vector_85
+                0x00000758                __vector_94
+                0x00000758                __vector_126
+                0x00000758                __vector_8
+                0x00000758                __vector_48
+                0x00000758                __vector_124
+                0x00000758                __vector_116
+                0x00000758                __vector_112
+                0x00000758                __vector_111
+                0x00000758                __vector_80
+                0x00000758                __vector_84
+                0x00000758                __vector_57
+                0x00000758                __vector_53
+                0x00000758                __vector_10
+                0x00000758                __vector_50
+                0x00000758                __vector_16
+                0x00000758                __vector_18
+                0x00000758                __vector_97
+                0x00000758                __vector_42
+                0x00000758                __vector_87
+                0x00000758                __vector_65
+                0x00000758                __vector_120
+                0x0000075a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.cspTask  0x0000075a       0xcc cspTask.o
+                0x0000075a                cspTask
+ .text.TWI_CSP_SlaveProcessData
+                0x00000826       0x78 csp_interface.o
+                0x00000826                TWI_CSP_SlaveProcessData
+ .text.i2c_init
+                0x0000089e       0x46 csp_interface.o
+                0x0000089e                i2c_init
+ .text.i2c_send
+                0x000008e4       0x24 csp_interface.o
+                0x000008e4                i2c_send
+ .text.clock_get_time
+                0x00000908        0x2 csp_interface.o
+                0x00000908                clock_get_time
+ .text.clock_set_time
+                0x0000090a        0x2 csp_interface.o
+                0x0000090a                clock_set_time
+ .text.__vector_13
+                0x0000090c       0x6a csp_interface.o
+                0x0000090c                __vector_13
+ .text.__vector_12
+                0x00000976       0x6a csp_interface.o
+                0x00000976                __vector_12
+ .text.pvPortMalloc
+                0x000009e0       0x48 FreeRTOS/Port/heap_1.o
+                0x000009e0                pvPortMalloc
+ .text.vPortFree
+                0x00000a28        0x2 FreeRTOS/Port/heap_1.o
+                0x00000a28                vPortFree
+ .text.pxPortInitialiseStack
+                0x00000a2a       0xdc FreeRTOS/Port/port.o
+                0x00000a2a                pxPortInitialiseStack
+ .text.xPortStartScheduler
+                0x00000b06       0x84 FreeRTOS/Port/port.o
+                0x00000b06                xPortStartScheduler
+ .text.vPortYield
+                0x00000b8a       0xb0 FreeRTOS/Port/port.o
+                0x00000b8a                vPortYield
+ .text.__vector_14
+                0x00000c3a       0xb2 FreeRTOS/Port/port.o
+                0x00000c3a                __vector_14
+ .text.vListInitialise
+                0x00000cec       0x1c FreeRTOS/Source/list.o
+                0x00000cec                vListInitialise
+ .text.vListInitialiseItem
+                0x00000d08        0x8 FreeRTOS/Source/list.o
+                0x00000d08                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00000d10       0x4e FreeRTOS/Source/list.o
+                0x00000d10                vListInsertEnd
+ .text.vListInsert
+                0x00000d5e       0x76 FreeRTOS/Source/list.o
+                0x00000d5e                vListInsert
+ .text.vListRemove
+                0x00000dd4       0x4c FreeRTOS/Source/list.o
+                0x00000dd4                vListRemove
+ .text.prvCopyDataToQueue
+                0x00000e20       0x98 FreeRTOS/Source/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000eb8       0x34 FreeRTOS/Source/queue.o
+ .text.prvUnlockQueue
+                0x00000eec       0x88 FreeRTOS/Source/queue.o
+ .text.xQueueCreate
+                0x00000f74       0x98 FreeRTOS/Source/queue.o
+                0x00000f74                xQueueCreate
+ .text.xQueueGenericSend
+                0x0000100c      0x110 FreeRTOS/Source/queue.o
+                0x0000100c                xQueueGenericSend
+ .text.xQueueCreateMutex
+                0x0000111c       0x50 FreeRTOS/Source/queue.o
+                0x0000111c                xQueueCreateMutex
+ .text.xQueueGenericSendFromISR
+                0x0000116c       0x54 FreeRTOS/Source/queue.o
+                0x0000116c                xQueueGenericSendFromISR
+ .text.xQueueGenericReceive
+                0x000011c0      0x15c FreeRTOS/Source/queue.o
+                0x000011c0                xQueueGenericReceive
+ .text.xQueueReceiveFromISR
+                0x0000131c       0x56 FreeRTOS/Source/queue.o
+                0x0000131c                xQueueReceiveFromISR
+ .text.uxQueueMessagesWaiting
+                0x00001372       0x10 FreeRTOS/Source/queue.o
+                0x00001372                uxQueueMessagesWaiting
+ .text.vQueueWaitForMessageRestricted
+                0x00001382       0x36 FreeRTOS/Source/queue.o
+                0x00001382                vQueueWaitForMessageRestricted
+ .text.prvIdleTask
+                0x000013b8        0xe FreeRTOS/Source/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x000013c6       0x6a FreeRTOS/Source/tasks.o
+ .text.prvListTaskWithinSingleList
+                0x00001430      0x13a FreeRTOS/Source/tasks.o
+ .text.xTaskGenericCreate
+                0x0000156a      0x1ce FreeRTOS/Source/tasks.o
+                0x0000156a                xTaskGenericCreate
+ .text.vTaskStartScheduler
+                0x00001738       0x58 FreeRTOS/Source/tasks.o
+                0x00001738                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x00001790        0xc FreeRTOS/Source/tasks.o
+                0x00001790                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x0000179c       0x14 FreeRTOS/Source/tasks.o
+                0x0000179c                xTaskGetTickCount
+ .text.uxTaskGetNumberOfTasks
+                0x000017b0        0x6 FreeRTOS/Source/tasks.o
+                0x000017b0                uxTaskGetNumberOfTasks
+ .text.vTaskIncrementTick
+                0x000017b6      0x182 FreeRTOS/Source/tasks.o
+                0x000017b6                vTaskIncrementTick
+ .text.xTaskResumeAll
+                0x00001938      0x110 FreeRTOS/Source/tasks.o
+                0x00001938                xTaskResumeAll
+ .text.vTaskDelay
+                0x00001a48       0x36 FreeRTOS/Source/tasks.o
+                0x00001a48                vTaskDelay
+ .text.vTaskList
+                0x00001a7e       0xaa FreeRTOS/Source/tasks.o
+                0x00001a7e                vTaskList
+ .text.vTaskSwitchContext
+                0x00001b28      0x15c FreeRTOS/Source/tasks.o
+                0x00001b28                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x00001c84       0x50 FreeRTOS/Source/tasks.o
+                0x00001c84                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x00001cd4       0x34 FreeRTOS/Source/tasks.o
+                0x00001cd4                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x00001d08       0x86 FreeRTOS/Source/tasks.o
+                0x00001d08                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x00001d8e       0x16 FreeRTOS/Source/tasks.o
+                0x00001d8e                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00001da4       0x7c FreeRTOS/Source/tasks.o
+                0x00001da4                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00001e20        0x8 FreeRTOS/Source/tasks.o
+                0x00001e20                vTaskMissedYield
+ .text.xTaskGetCurrentTaskHandle
+                0x00001e28        0xa FreeRTOS/Source/tasks.o
+                0x00001e28                xTaskGetCurrentTaskHandle
+ .text.xTaskGetSchedulerState
+                0x00001e32       0x1c FreeRTOS/Source/tasks.o
+                0x00001e32                xTaskGetSchedulerState
+ .text.vTaskPriorityInherit
+                0x00001e4e       0xae FreeRTOS/Source/tasks.o
+                0x00001e4e                vTaskPriorityInherit
+ .text.vTaskPriorityDisinherit
+                0x00001efc       0x66 FreeRTOS/Source/tasks.o
+                0x00001efc                vTaskPriorityDisinherit
+ .text.prvInsertTimerInActiveList
+                0x00001f62       0x5e FreeRTOS/Source/timers.o
+ .text.prvCheckForValidListAndQueue
+                0x00001fc0       0x50 FreeRTOS/Source/timers.o
+ .text.xTimerCreateTimerTask
+                0x00002010       0x50 FreeRTOS/Source/timers.o
+                0x00002010                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x00002060       0x88 FreeRTOS/Source/timers.o
+                0x00002060                xTimerGenericCommand
+ .text.prvSampleTimeNow
+                0x000020e8       0xe0 FreeRTOS/Source/timers.o
+ .text.prvTimerTask
+                0x000021c8      0x19a FreeRTOS/Source/timers.o
+ .text.csp_malloc
+                0x00002362        0x6 libscp/src/arch/freertos/csp_malloc.o
+                0x00002362                csp_malloc
+ .text.csp_free
+                0x00002368        0x6 libscp/src/arch/freertos/csp_malloc.o
+                0x00002368                csp_free
+ .text.csp_queue_create
+                0x0000236e        0x6 libscp/src/arch/freertos/csp_queue.o
+                0x0000236e                csp_queue_create
+ .text.csp_queue_enqueue
+                0x00002374       0x16 libscp/src/arch/freertos/csp_queue.o
+                0x00002374                csp_queue_enqueue
+ .text.csp_queue_enqueue_isr
+                0x0000238a        0xe libscp/src/arch/freertos/csp_queue.o
+                0x0000238a                csp_queue_enqueue_isr
+ .text.csp_queue_dequeue
+                0x00002398       0x16 libscp/src/arch/freertos/csp_queue.o
+                0x00002398                csp_queue_dequeue
+ .text.csp_queue_size
+                0x000023ae        0x8 libscp/src/arch/freertos/csp_queue.o
+                0x000023ae                csp_queue_size
+ .text.csp_mutex_create
+                0x000023b6       0x22 libscp/src/arch/freertos/csp_semaphore.o
+                0x000023b6                csp_mutex_create
+ .text.csp_bin_sem_create
+                0x000023d8       0x2e libscp/src/arch/freertos/csp_semaphore.o
+                0x000023d8                csp_bin_sem_create
+ .text.csp_bin_sem_wait
+                0x00002406       0x20 libscp/src/arch/freertos/csp_semaphore.o
+                0x00002406                csp_bin_sem_wait
+ .text.csp_bin_sem_post
+                0x00002426       0x24 libscp/src/arch/freertos/csp_semaphore.o
+                0x00002426                csp_bin_sem_post
+ .text.csp_sys_tasklist
+                0x0000244a        0x8 libscp/src/arch/freertos/csp_system.o
+                0x0000244a                csp_sys_tasklist
+ .text.csp_sys_tasklist_size
+                0x00002452        0xc libscp/src/arch/freertos/csp_system.o
+                0x00002452                csp_sys_tasklist_size
+ .text.csp_sys_memfree
+                0x0000245e       0xae libscp/src/arch/freertos/csp_system.o
+                0x0000245e                csp_sys_memfree
+ .text.csp_sys_reboot
+                0x0000250c       0x24 libscp/src/arch/freertos/csp_system.o
+                0x0000250c                csp_sys_reboot
+ .text.csp_thread_create
+                0x00002530       0x3c libscp/src/arch/freertos/csp_thread.o
+                0x00002530                csp_thread_create
+ .text.csp_get_ms
+                0x0000256c        0xa libscp/src/arch/freertos/csp_time.o
+                0x0000256c                csp_get_ms
+ .text.csp_get_s
+                0x00002576       0x2c libscp/src/arch/freertos/csp_time.o
+                0x00002576                csp_get_s
+ .text.csp_buffer_init
+                0x000025a2      0x114 libscp/src/csp_buffer.o
+                0x000025a2                csp_buffer_init
+ .text.csp_buffer_get
+                0x000026b6       0x74 libscp/src/csp_buffer.o
+                0x000026b6                csp_buffer_get
+ .text.csp_buffer_free_isr
+                0x0000272a       0x70 libscp/src/csp_buffer.o
+                0x0000272a                csp_buffer_free_isr
+ .text.csp_buffer_free
+                0x0000279a       0x6e libscp/src/csp_buffer.o
+                0x0000279a                csp_buffer_free
+ .text.csp_buffer_remaining
+                0x00002808        0xc libscp/src/csp_buffer.o
+                0x00002808                csp_buffer_remaining
+ .text.csp_conn_enqueue_packet
+                0x00002814       0x4c libscp/src/csp_conn.o
+                0x00002814                csp_conn_enqueue_packet
+ .text.csp_conn_init
+                0x00002860       0x94 libscp/src/csp_conn.o
+                0x00002860                csp_conn_init
+ .text.csp_conn_find
+                0x000028f4       0x6c libscp/src/csp_conn.o
+                0x000028f4                csp_conn_find
+ .text.csp_conn_flush_rx_queue
+                0x00002960       0x48 libscp/src/csp_conn.o
+                0x00002960                csp_conn_flush_rx_queue
+ .text.csp_conn_allocate
+                0x000029a8       0xcc libscp/src/csp_conn.o
+                0x000029a8                csp_conn_allocate
+ .text.csp_conn_new
+                0x00002a74       0x5c libscp/src/csp_conn.o
+                0x00002a74                csp_conn_new
+ .text.csp_close
+                0x00002ad0       0x4a libscp/src/csp_conn.o
+                0x00002ad0                csp_close
+ .text.csp_conn_dport
+                0x00002b1a       0x1a libscp/src/csp_conn.o
+                0x00002b1a                csp_conn_dport
+ .text.csp_crc32_memory
+                0x00002b34       0xa4 libscp/src/csp_crc32.o
+                0x00002b34                csp_crc32_memory
+ .text.csp_crc32_append
+                0x00002bd8       0x42 libscp/src/csp_crc32.o
+                0x00002bd8                csp_crc32_append
+ .text.csp_crc32_verify
+                0x00002c1a       0x92 libscp/src/csp_crc32.o
+                0x00002c1a                csp_crc32_verify
+ .text.csp_hton32
+                0x00002cac       0x6a libscp/src/csp_endian.o
+                0x00002cac                csp_hton32
+ .text.csp_ntoh32
+                0x00002d16       0x6a libscp/src/csp_endian.o
+                0x00002d16                csp_ntoh32
+ .text.csp_get_hostname
+                0x00002d80        0xa libscp/src/csp_io.o
+                0x00002d80                csp_get_hostname
+ .text.csp_get_model
+                0x00002d8a        0xa libscp/src/csp_io.o
+                0x00002d8a                csp_get_model
+ .text.csp_init
+                0x00002d94       0x20 libscp/src/csp_io.o
+                0x00002d94                csp_init
+ .text.csp_socket
+                0x00002db4       0x8c libscp/src/csp_io.o
+                0x00002db4                csp_socket
+ .text.csp_accept
+                0x00002e40       0x4a libscp/src/csp_io.o
+                0x00002e40                csp_accept
+ .text.csp_read
+                0x00002e8a       0x50 libscp/src/csp_io.o
+                0x00002e8a                csp_read
+ .text.csp_send_direct
+                0x00002eda      0x154 libscp/src/csp_io.o
+                0x00002eda                csp_send_direct
+ .text.csp_send
+                0x0000302e       0x54 libscp/src/csp_io.o
+                0x0000302e                csp_send
+ .text.csp_sendto
+                0x00003082       0xe2 libscp/src/csp_io.o
+                0x00003082                csp_sendto
+ .text.csp_port_get_socket
+                0x00003164       0x4e libscp/src/csp_port.o
+                0x00003164                csp_port_get_socket
+ .text.csp_port_init
+                0x000031b2       0x14 libscp/src/csp_port.o
+                0x000031b2                csp_port_init
+ .text.csp_listen
+                0x000031c6       0x36 libscp/src/csp_port.o
+                0x000031c6                csp_listen
+ .text.csp_bind
+                0x000031fc       0x4e libscp/src/csp_port.o
+                0x000031fc                csp_bind
+ .text.csp_route_security_check
+                0x0000324a       0x8a libscp/src/csp_route.o
+ .text.csp_route_next_packet
+                0x000032d4       0x24 libscp/src/csp_route.o
+                0x000032d4                csp_route_next_packet
+ .text.csp_route_start_task
+                0x000032f8       0x44 libscp/src/csp_route.o
+                0x000032f8                csp_route_start_task
+ .text.csp_route_get_if_by_name
+                0x0000333c       0x3e libscp/src/csp_route.o
+                0x0000333c                csp_route_get_if_by_name
+ .text.csp_route_add_if
+                0x0000337a       0x52 libscp/src/csp_route.o
+                0x0000337a                csp_route_add_if
+ .text.csp_route_set
+                0x000033cc       0x4c libscp/src/csp_route.o
+                0x000033cc                csp_route_set
+ .text.csp_route_table_init
+                0x00003418       0x54 libscp/src/csp_route.o
+                0x00003418                csp_route_table_init
+ .text.csp_route_if
+                0x0000346c       0x34 libscp/src/csp_route.o
+                0x0000346c                csp_route_if
+ .text.csp_task_router
+                0x000034a0      0x25e libscp/src/csp_route.o
+                0x000034a0                csp_task_router
+ .text.csp_route_enqueue
+                0x000036fe       0x2a libscp/src/csp_route.o
+                0x000036fe                csp_route_enqueue
+ .text.csp_new_packet
+                0x00003728       0xe4 libscp/src/csp_route.o
+                0x00003728                csp_new_packet
+ .text.csp_route_get_nexthop_mac
+                0x0000380c        0x8 libscp/src/csp_route.o
+                0x0000380c                csp_route_get_nexthop_mac
+ .text.csp_cmp_handler
+                0x00003814      0x2c8 libscp/src/csp_service_handler.o
+                0x00003814                csp_cmp_handler
+ .text.csp_service_handler
+                0x00003adc      0x17a libscp/src/csp_service_handler.o
+                0x00003adc                csp_service_handler
+ .text.csp_i2c_tx
+                0x00003c56       0x9a libscp/src/interfaces/csp_if_i2c.o
+                0x00003c56                csp_i2c_tx
+ .text.csp_i2c_rx
+                0x00003cf0       0x78 libscp/src/interfaces/csp_if_i2c.o
+                0x00003cf0                csp_i2c_rx
+ .text.csp_i2c_init
+                0x00003d68       0x58 libscp/src/interfaces/csp_if_i2c.o
+                0x00003d68                csp_i2c_init
+ .text.csp_lo_tx
+                0x00003dc0       0x12 libscp/src/interfaces/csp_if_lo.o
+                0x00003dc0                csp_lo_tx
+ .text.csp_udp_new_packet
+                0x00003dd2       0x66 libscp/src/transport/csp_udp.o
+                0x00003dd2                csp_udp_new_packet
+ .text.blink    0x00003e38       0x12 main.o
+                0x00003e38                blink
+ .text.main     0x00003e4a       0xa4 main.o
+                0x00003e4a                main
+ .text.mainTask
+                0x00003eee      0x244 mainTask.o
+                0x00003eee                mainTask
+ .text.PORT_ConfigurePins
+                0x00004132       0x32 MyDrivers/port_driver.o
+                0x00004132                PORT_ConfigurePins
+ .text.TC0_ConfigClockSource
+                0x00004164        0xc MyDrivers/TC_driver.o
+                0x00004164                TC0_ConfigClockSource
+ .text.TC1_ConfigClockSource
+                0x00004170        0xc MyDrivers/TC_driver.o
+                0x00004170                TC1_ConfigClockSource
+ .text.TC0_SetOverflowIntLevel
+                0x0000417c        0xc MyDrivers/TC_driver.o
+                0x0000417c                TC0_SetOverflowIntLevel
+ .text.TC1_SetOverflowIntLevel
+                0x00004188        0xc MyDrivers/TC_driver.o
+                0x00004188                TC1_SetOverflowIntLevel
+ .text.TWI_MasterInit
+                0x00004194       0x22 MyDrivers/twi_master_driver.o
+                0x00004194                TWI_MasterInit
+ .text.TWI_MasterWriteRead
+                0x000041b6       0xc0 MyDrivers/twi_master_driver.o
+                0x000041b6                TWI_MasterWriteRead
+ .text.TWI_MasterWrite
+                0x00004276        0xa MyDrivers/twi_master_driver.o
+                0x00004276                TWI_MasterWrite
+ .text.TWI_MasterArbitrationLostBusErrorHandler
+                0x00004280       0x30 MyDrivers/twi_master_driver.o
+                0x00004280                TWI_MasterArbitrationLostBusErrorHandler
+ .text.TWI_MasterWriteHandler
+                0x000042b0       0x80 MyDrivers/twi_master_driver.o
+                0x000042b0                TWI_MasterWriteHandler
+ .text.TWI_MasterReadHandler
+                0x00004330       0x7e MyDrivers/twi_master_driver.o
+                0x00004330                TWI_MasterReadHandler
+ .text.TWI_MasterInterruptHandler
+                0x000043ae       0x32 MyDrivers/twi_master_driver.o
+                0x000043ae                TWI_MasterInterruptHandler
+ .text.TWI_SlaveInitializeDriver
+                0x000043e0       0x22 MyDrivers/twi_slave_driver.o
+                0x000043e0                TWI_SlaveInitializeDriver
+ .text.TWI_SlaveInitializeModule
+                0x00004402       0x16 MyDrivers/twi_slave_driver.o
+                0x00004402                TWI_SlaveInitializeModule
+ .text.TWI_SlaveTransactionFinished
+                0x00004418       0x1a MyDrivers/twi_slave_driver.o
+                0x00004418                TWI_SlaveTransactionFinished
+ .text.TWI_SlaveAddressMatchHandler
+                0x00004432       0x5a MyDrivers/twi_slave_driver.o
+                0x00004432                TWI_SlaveAddressMatchHandler
+ .text.TWI_SlaveStopHandler
+                0x0000448c       0x1e MyDrivers/twi_slave_driver.o
+                0x0000448c                TWI_SlaveStopHandler
+ .text.TWI_SlaveReadHandler
+                0x000044aa       0x74 MyDrivers/twi_slave_driver.o
+                0x000044aa                TWI_SlaveReadHandler
+ .text.TWI_SlaveWriteHandler
+                0x0000451e       0x6e MyDrivers/twi_slave_driver.o
+                0x0000451e                TWI_SlaveWriteHandler
+ .text.TWI_SlaveDataHandler
+                0x0000458c       0x14 MyDrivers/twi_slave_driver.o
+                0x0000458c                TWI_SlaveDataHandler
+ .text.TWI_SlaveInterruptHandler
+                0x000045a0       0x66 MyDrivers/twi_slave_driver.o
+                0x000045a0                TWI_SlaveInterruptHandler
+ .text.__vector_25
+                0x00004606       0xb0 MyDrivers/usart_driver_RTOS.o
+                0x00004606                __vector_25
+ .text.__vector_88
+                0x000046b6       0xb0 MyDrivers/usart_driver_RTOS.o
+                0x000046b6                __vector_88
+ .text.__vector_58
+                0x00004766       0xb0 MyDrivers/usart_driver_RTOS.o
+                0x00004766                __vector_58
+ .text.__vector_26
+                0x00004816       0xc6 MyDrivers/usart_driver_RTOS.o
+                0x00004816                __vector_26
+ .text.__vector_89
+                0x000048dc       0xc6 MyDrivers/usart_driver_RTOS.o
+                0x000048dc                __vector_89
+ .text.__vector_59
+                0x000049a2       0xc6 MyDrivers/usart_driver_RTOS.o
+                0x000049a2                __vector_59
+ .text.usartBufferInitialize
+                0x00004a68      0x16e MyDrivers/usart_driver_RTOS.o
+                0x00004a68                usartBufferInitialize
+ .text.usartBufferPutByte
+                0x00004bd6       0x4c MyDrivers/usart_driver_RTOS.o
+                0x00004bd6                usartBufferPutByte
+ .text.usartBufferGetByte
+                0x00004c22        0xe MyDrivers/usart_driver_RTOS.o
+                0x00004c22                usartBufferGetByte
+ .text.usartBufferPutString
+                0x00004c30       0x34 MyDrivers/usart_driver_RTOS.o
+                0x00004c30                usartBufferPutString
+ .text.boardInit
+                0x00004c64       0x9c system.o
+                0x00004c64                boardInit
+ .text.__vector_20
+                0x00004d00       0xfe system.o
+                0x00004d00                __vector_20
+ .text.sysclk_init
+                0x00004dfe       0x4e src/ASF/common/services/clock/xmega/sysclk.o
+                0x00004dfe                sysclk_init
+ .text.sysclk_enable_module
+                0x00004e4c       0x18 src/ASF/common/services/clock/xmega/sysclk.o
+                0x00004e4c                sysclk_enable_module
+ .text.ccp_write_io
+                0x00004e64        0xc src/ASF/xmega/drivers/cpu/ccp.o
+                0x00004e64                ccp_write_io
+ .text.avr-libc
+                0x00004e70      0x702 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+                0x00004e70                vfprintf
+ .text.libgcc.div
+                0x00005572       0x26 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+                0x00005572                _div
+                0x00005572                __divmodhi4
+ .text.libgcc   0x00005598        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+                0x00005598                __tablejump2__
+                0x0000559c                __tablejump__
+ .text.libgcc.mul
+                0x000055a4       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+                0x000055a4                __umulhisi3
+ .text.libgcc.div
+                0x000055c2       0x28 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+                0x000055c2                __udivmodhi4
+ .text.avr-libc
+                0x000055ea       0xae c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o)
+                0x0000567a                rand_r
+                0x0000567c                rand
+                0x00005682                srand
+ .text.avr-libc
+                0x00005698      0x1b0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ftoa_engine.o)
+                0x00005698                __ftoa_engine
+ .text.avr-libc
+                0x00005848       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen_P.o)
+                0x00005848                strnlen_P
+ .text.avr-libc
+                0x0000585e       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcmp.o)
+                0x0000585e                memcmp
+ .text.avr-libc
+                0x00005878       0x12 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcpy.o)
+                0x00005878                memcpy
+ .text.avr-libc
+                0x0000588a        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memset.o)
+                0x0000588a                memset
+ .text.avr-libc
+                0x00005898       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strcat.o)
+                0x00005898                strcat
+ .text.avr-libc
+                0x000058ae       0x1c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncmp.o)
+                0x000058ae                strncmp
+ .text.avr-libc
+                0x000058ca       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncpy.o)
+                0x000058ca                strncpy
+ .text.avr-libc
+                0x000058e8       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen.o)
+                0x000058e8                strnlen
+ .text.avr-libc
+                0x000058fe       0x14 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa_ncheck.o)
+                0x000058fe                __itoa_ncheck
+ .text.avr-libc
+                0x00005912       0x32 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(utoa_ncheck.o)
+                0x00005912                __utoa_ncheck
+                0x00005914                __utoa_common
+ .text.avr-libc
+                0x00005944       0x64 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(fputc.o)
+                0x00005944                fputc
+ .text.avr-libc
+                0x000059a8       0x50 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(sprintf.o)
+                0x000059a8                sprintf
+ .text.avr-libc
+                0x000059f8       0xbc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ultoa_invert.o)
+                0x000059f8                __ultoa_invert
+ .text.avr-libc
+                0x00005ab4       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strrev.o)
+                0x00005ab4                strrev
+ .text.libgcc.div
+                0x00005ad4       0x28 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+                0x00005ad4                __divmodsi4
+ .text.libgcc.div
+                0x00005afc       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+                0x00005afc                __negsi2
+ .text.libgcc.mul
+                0x00005b0c       0x14 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+                0x00005b0c                __muluhisi3
+ .text.libgcc.mul
+                0x00005b20        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+                0x00005b20                __mulshisi3
+                0x00005b24                __mulohisi3
+ .text.libgcc.div
+                0x00005b2c       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+                0x00005b2c                __udivmodsi4
+                0x00005b70                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00005b70        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+                0x00005b70                _exit
+                0x00005b70                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00005b70        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00005b74                _etext = .
+
+.data           0x00802000       0xe6 load address 0x00005b74
+                0x00802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7/crtx128a4u.o
+ .data          0x00802000        0x0 cspTask.o
+ .data          0x00802000        0x0 csp_interface.o
+ .data          0x00802000        0x0 FreeRTOS/Port/heap_1.o
+ .data          0x00802000        0x0 FreeRTOS/Port/port.o
+ .data          0x00802000        0x0 FreeRTOS/Source/croutine.o
+ .data          0x00802000        0x0 FreeRTOS/Source/list.o
+ .data          0x00802000        0x0 FreeRTOS/Source/queue.o
+ .data          0x00802000        0x0 FreeRTOS/Source/tasks.o
+ .data          0x00802000        0x0 FreeRTOS/Source/timers.o
+ .data          0x00802000        0x0 libscp/src/arch/freertos/csp_malloc.o
+ .data          0x00802000        0x0 libscp/src/arch/freertos/csp_queue.o
+ .data          0x00802000        0x0 libscp/src/arch/freertos/csp_semaphore.o
+ .data          0x00802000        0x0 libscp/src/arch/freertos/csp_system.o
+ .data          0x00802000        0x0 libscp/src/arch/freertos/csp_thread.o
+ .data          0x00802000        0x0 libscp/src/arch/freertos/csp_time.o
+ .data          0x00802000        0x0 libscp/src/crypto/csp_hmac.o
+ .data          0x00802000        0x0 libscp/src/crypto/csp_sha1.o
+ .data          0x00802000        0x0 libscp/src/crypto/csp_xtea.o
+ .data          0x00802000        0x0 libscp/src/csp_buffer.o
+ .data          0x00802000        0x0 libscp/src/csp_conn.o
+ .data          0x00802000        0x0 libscp/src/csp_crc32.o
+ .data          0x00802000        0x0 libscp/src/csp_debug.o
+ .data          0x00802000        0x0 libscp/src/csp_endian.o
+ .data          0x00802000        0x0 libscp/src/csp_io.o
+ .data          0x00802000        0x0 libscp/src/csp_port.o
+ .data          0x00802000        0x0 libscp/src/csp_route.o
+ .data          0x00802000        0x0 libscp/src/csp_services.o
+ .data          0x00802000        0x0 libscp/src/csp_service_handler.o
+ .data          0x00802000        0x0 libscp/src/csp_sfp.o
+ .data          0x00802000        0x0 libscp/src/interfaces/csp_if_i2c.o
+ .data          0x00802000        0x0 libscp/src/interfaces/csp_if_lo.o
+ .data          0x00802000        0x0 libscp/src/transport/csp_rdp.o
+ .data          0x00802000        0x0 libscp/src/transport/csp_udp.o
+ .data          0x00802000        0x0 main.o
+ .data          0x00802000        0x0 mainTask.o
+ .data          0x00802000        0x0 MyDrivers/port_driver.o
+ .data          0x00802000        0x0 MyDrivers/TC_driver.o
+ .data          0x00802000        0x0 MyDrivers/twi_master_driver.o
+ .data          0x00802000        0x0 MyDrivers/twi_slave_driver.o
+ .data          0x00802000        0x0 MyDrivers/usart_driver_RTOS.o
+ .data          0x00802000        0x0 system.o
+ .data          0x00802000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .data          0x00802000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodhi4.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_exit.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_tablejump.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_copy_data.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_clear_bss.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_umulhisi3.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashldi3.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_ashrdi3.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodhi4.o)
+ .data          0x00802000        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ftoa_engine.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen_P.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcmp.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memcpy.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(memset.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strcat.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncmp.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strncpy.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strnlen.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(itoa_ncheck.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(utoa_ncheck.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(fputc.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(printf_p.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(sprintf.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vfprintf_p.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vsnprintf.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(ultoa_invert.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(strrev.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_divmodsi4.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_negsi2.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_muluhisi3.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_mulshisi3.o)
+ .data          0x00802004        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega7\libgcc.a(_udivmodsi4.o)
+ *(.data*)
+ .data.uxPreviousTask
+                0x00802004        0x1 FreeRTOS/Source/tasks.o
+ .data.xNextTaskUnblockTime
+                0x00802005        0x2 FreeRTOS/Source/tasks.o
+ .data.csp_if_i2c
+                0x00802007       0x34 libscp/src/interfaces/csp_if_i2c.o
+                0x00802007                csp_if_i2c
+ .data.csp_if_lo
+                0x0080203b       0x34 libscp/src/interfaces/csp_if_lo.o
+                0x0080203b                csp_if_lo
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080206f       0x17 FreeRTOS/Source/tasks.o
+ .rodata.str1.1
+                0x00802086        0x8 FreeRTOS/Source/timers.o
+ .rodata.str1.1
+                0x0080208e        0x4 libscp/src/csp_route.o
+ .rodata.str1.1
+                0x00802092       0x1d libscp/src/csp_service_handler.o
+ .rodata.str1.1
+                0x008020af        0x4 libscp/src/interfaces/csp_if_i2c.o
+ .rodata.str1.1
+                0x008020b3        0x5 libscp/src/interfaces/csp_if_lo.o
+ .rodata.str1.1
+                0x008020b8       0x17 main.o
+ .rodata.str1.1
+                0x008020cf       0x17 mainTask.o
+ *(.gnu.linkonce.d*)
+                0x008020e6                . = ALIGN (0x2)
+                0x008020e6                _edata = .
+                0x008020e6                PROVIDE (__data_end, .)
+
+.bss            0x008020e6     0x1e7e
+                0x008020e6                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.xNextFreeByte
+                0x008020e6        0x2 FreeRTOS/Port/heap_1.o
+ .bss.xHeap     0x008020e8     0x1b58 FreeRTOS/Port/heap_1.o
+ .bss.pcStatusString
+                0x00803c40       0x32 FreeRTOS/Source/tasks.o
+ .bss.xTracing  0x00803c72        0x1 FreeRTOS/Source/tasks.o
+ .bss.pcTraceBufferEnd
+                0x00803c73        0x2 FreeRTOS/Source/tasks.o
+ .bss.pcTraceBuffer
+                0x00803c75        0x2 FreeRTOS/Source/tasks.o
+ .bss.uxTaskNumber
+                0x00803c77        0x1 FreeRTOS/Source/tasks.o
+ .bss.xNumOfOverflows
+                0x00803c78        0x1 FreeRTOS/Source/tasks.o
+ .bss.xMissedYield
+                0x00803c79        0x1 FreeRTOS/Source/tasks.o
+ .bss.uxMissedTicks
+                0x00803c7a        0x1 FreeRTOS/Source/tasks.o
+ .bss.uxSchedulerSuspended
+                0x00803c7b        0x1 FreeRTOS/Source/tasks.o
+ .bss.xSchedulerRunning
+                0x00803c7c        0x1 FreeRTOS/Source/tasks.o
+ .bss.uxTopReadyPriority
+                0x00803c7d        0x1 FreeRTOS/Source/tasks.o
+ .bss.uxTopUsedPriority
+                0x00803c7e        0x1 FreeRTOS/Source/tasks.o
+ .bss.xTickCount
+                0x00803c7f        0x2 FreeRTOS/Source/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x00803c81        0x1 FreeRTOS/Source/tasks.o
+ .bss.xSuspendedTaskList
+                0x00803c82        0x9 FreeRTOS/Source/tasks.o
+ .bss.xPendingReadyList
+                0x00803c8b        0x9 FreeRTOS/Source/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x00803c94        0x2 FreeRTOS/Source/tasks.o
+ .bss.pxDelayedTaskList
+                0x00803c96        0x2 FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x00803c98        0x9 FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x00803ca1        0x9 FreeRTOS/Source/tasks.o
+ .bss.pxReadyTasksLists
+                0x00803caa        0x9 FreeRTOS/Source/tasks.o
+ .bss.pxCurrentTCB
+                0x00803cb3        0x2 FreeRTOS/Source/tasks.o
+                0x00803cb3                pxCurrentTCB
+ .bss.xLastTime.4385
+                0x00803cb5        0x2 FreeRTOS/Source/timers.o
+ .bss.xTimerQueue
+                0x00803cb7        0x2 FreeRTOS/Source/timers.o
+ .bss.pxOverflowTimerList
+                0x00803cb9        0x2 FreeRTOS/Source/timers.o
+ .bss.pxCurrentTimerList
+                0x00803cbb        0x2 FreeRTOS/Source/timers.o
+ .bss.xActiveTimerList2
+                0x00803cbd        0x9 FreeRTOS/Source/timers.o
+ .bss.xActiveTimerList1
+                0x00803cc6        0x9 FreeRTOS/Source/timers.o
+ .bss.size      0x00803ccf        0x2 libscp/src/csp_buffer.o
+ .bss.count     0x00803cd1        0x2 libscp/src/csp_buffer.o
+ .bss.csp_buffer_pool
+                0x00803cd3        0x2 libscp/src/csp_buffer.o
+ .bss.csp_buffers
+                0x00803cd5        0x2 libscp/src/csp_buffer.o
+ .bss.csp_conn_last_given.5048
+                0x00803cd7        0x1 libscp/src/csp_conn.o
+ .bss.sport_lock
+                0x00803cd8        0x2 libscp/src/csp_conn.o
+ .bss.sport     0x00803cda        0x1 libscp/src/csp_conn.o
+ .bss.conn_lock
+                0x00803cdb        0x2 libscp/src/csp_conn.o
+ .bss.arr_conn  0x00803cdd       0xf0 libscp/src/csp_conn.o
+ .bss.csp_model
+                0x00803dcd        0x2 libscp/src/csp_io.o
+ .bss.csp_hostname
+                0x00803dcf        0x2 libscp/src/csp_io.o
+ .bss.ports     0x00803dd1       0x63 libscp/src/csp_port.o
+ .bss.router_input_fifo
+                0x00803e34        0x2 libscp/src/csp_route.o
+ .bss.handle_router
+                0x00803e36        0x2 libscp/src/csp_route.o
+ .bss.routes    0x00803e38       0x63 libscp/src/csp_route.o
+ .bss.interfaces
+                0x00803e9b        0x2 libscp/src/csp_route.o
+ .bss.packet.4545
+                0x00803e9d        0x2 libscp/src/interfaces/csp_if_i2c.o
+ *(COMMON)
+ COMMON         0x00803e9f        0x2 cspTask.o
+                0x00803e9f                xCSPEventQueue
+ COMMON         0x00803ea1       0xa6 csp_interface.o
+                0x00803ea1                twi_csp_slave
+                0x00803ef3                twi_csp_master
+                0x00803f45                callbackFunction
+ COMMON         0x00803f47        0x1 libscp/src/csp_io.o
+                0x00803f47                my_address
+ COMMON         0x00803f48        0x6 mainTask.o
+                0x00803f48                timediff
+                0x00803f4a                pingSent
+ COMMON         0x00803f4e        0x8 MyDrivers/usart_driver_RTOS.o
+                0x00803f4e                usartBufferF
+                0x00803f50                usartBufferE
+                0x00803f52                usartBufferD
+                0x00803f54                usartBufferC
+ COMMON         0x00803f56        0xe system.o
+                0x00803f56                hoursTimer
+                0x00803f5a                milisecondsTimer
+                0x00803f5e                secondsTimer
+                0x00803f62                pc_usart_buffer
+                0x00803f64                PROVIDE (__bss_end, .)
+                0x00005b74                __data_load_start = LOADADDR (.data)
+                0x00005c5a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00803f64        0x0
+                0x00803f64                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00803f64                PROVIDE (__noinit_end, .)
+                0x00803f64                _end = .
+                0x00803f64                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 cspTask.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 csp_interface.o
+ .comment       0x00000000       0x31 FreeRTOS/Port/heap_1.o
+ .comment       0x00000000       0x31 FreeRTOS/Port/port.o
+ .comment       0x00000000       0x31 FreeRTOS/Source/croutine.o
+ .comment       0x00000000       0x31 FreeRTOS/Source/list.o
+ .comment       0x00000000       0x31 FreeRTOS/Source/queue.o
+ .comment       0x00000000       0x31 FreeRTOS/Source/tasks.o
+ .comment       0x00000000       0x31 FreeRTOS/Source/timers.o
+ .comment       0x00000000       0x31 libscp/src/arch/freertos/csp_malloc.o
+ .comment       0x00000000       0x31 libscp/src/arch/freertos/csp_queue.o
+ .comment       0x00000000       0x31 libscp/src/arch/freertos/csp_semaphore.o
+ .comment       0x00000000       0x31 libscp/src/arch/freertos/csp_system.o
+ .comment       0x00000000       0x31 libscp/src/arch/freertos/csp_thread.o
+ .comment       0x00000000       0x31 libscp/src/arch/freertos/csp_time.o
+ .comment       0x00000000       0x31 libscp/src/crypto/csp_hmac.o
+ .comment       0x00000000       0x31 libscp/src/crypto/csp_sha1.o
+ .comment       0x00000000       0x31 libscp/src/crypto/csp_xtea.o
+ .comment       0x00000000       0x31 libscp/src/csp_buffer.o
+ .comment       0x00000000       0x31 libscp/src/csp_conn.o
+ .comment       0x00000000       0x31 libscp/src/csp_crc32.o
+ .comment       0x00000000       0x31 libscp/src/csp_debug.o
+ .comment       0x00000000       0x31 libscp/src/csp_endian.o
+ .comment       0x00000000       0x31 libscp/src/csp_io.o
+ .comment       0x00000000       0x31 libscp/src/csp_port.o
+ .comment       0x00000000       0x31 libscp/src/csp_route.o
+ .comment       0x00000000       0x31 libscp/src/csp_services.o
+ .comment       0x00000000       0x31 libscp/src/csp_service_handler.o
+ .comment       0x00000000       0x31 libscp/src/csp_sfp.o
+ .comment       0x00000000       0x31 libscp/src/interfaces/csp_if_i2c.o
+ .comment       0x00000000       0x31 libscp/src/interfaces/csp_if_lo.o
+ .comment       0x00000000       0x31 libscp/src/transport/csp_rdp.o
+ .comment       0x00000000       0x31 libscp/src/transport/csp_udp.o
+ .comment       0x00000000       0x31 main.o
+ .comment       0x00000000       0x31 mainTask.o
+ .comment       0x00000000       0x31 MyDrivers/port_driver.o
+ .comment       0x00000000       0x31 MyDrivers/TC_driver.o
+ .comment       0x00000000       0x31 MyDrivers/twi_master_driver.o
+ .comment       0x00000000       0x31 MyDrivers/twi_slave_driver.o
+ .comment       0x00000000       0x31 MyDrivers/usart_driver_RTOS.o
+ .comment       0x00000000       0x31 system.o
+ .comment       0x00000000       0x31 src/ASF/common/services/clock/xmega/sysclk.o
+ .comment       0x00000000       0x31 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .comment       0x00000000       0x31 src/ASF/xmega/drivers/nvm/nvm.o
+ .comment       0x00000030       0x2c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libprintf_flt.a(vfprintf_flt.o)
+                                 0x2d (size before relaxing)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(rand.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(fputc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(iob.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(printf_p.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(sprintf.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vfprintf_p.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega7\libc.a(vsnprintf.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0xe00
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 cspTask.o
+ .debug_aranges
+                0x00000020       0x50 csp_interface.o
+ .debug_aranges
+                0x00000070       0x38 FreeRTOS/Port/heap_1.o
+ .debug_aranges
+                0x000000a8       0x40 FreeRTOS/Port/port.o
+ .debug_aranges
+                0x000000e8       0x38 FreeRTOS/Source/croutine.o
+ .debug_aranges
+                0x00000120       0x40 FreeRTOS/Source/list.o
+ .debug_aranges
+                0x00000160       0x90 FreeRTOS/Source/queue.o
+ .debug_aranges
+                0x000001f0      0x120 FreeRTOS/Source/tasks.o
+ .debug_aranges
+                0x00000310       0x60 FreeRTOS/Source/timers.o
+ .debug_aranges
+                0x00000370       0x28 libscp/src/arch/freertos/csp_malloc.o
+ .debug_aranges
+                0x00000398       0x58 libscp/src/arch/freertos/csp_queue.o
+ .debug_aranges
+                0x000003f0       0x60 libscp/src/arch/freertos/csp_semaphore.o
+ .debug_aranges
+                0x00000450       0x40 libscp/src/arch/freertos/csp_system.o
+ .debug_aranges
+                0x00000490       0x20 libscp/src/arch/freertos/csp_thread.o
+ .debug_aranges
+                0x000004b0       0x38 libscp/src/arch/freertos/csp_time.o
+ .debug_aranges
+                0x000004e8       0x18 libscp/src/crypto/csp_hmac.o
+ .debug_aranges
+                0x00000500       0x18 libscp/src/crypto/csp_sha1.o
+ .debug_aranges
+                0x00000518       0x18 libscp/src/crypto/csp_xtea.o
+ .debug_aranges
+                0x00000530       0x58 libscp/src/csp_buffer.o
+ .debug_aranges
+                0x00000588       0xa0 libscp/src/csp_conn.o
+ .debug_aranges
+                0x00000628       0x30 libscp/src/csp_crc32.o
+ .debug_aranges
+                0x00000658       0x40 libscp/src/csp_debug.o
+ .debug_aranges
+                0x00000698       0xa8 libscp/src/csp_endian.o
+ .debug_aranges
+                0x00000740       0x98 libscp/src/csp_io.o
+ .debug_aranges
+                0x000007d8       0x38 libscp/src/csp_port.o
+ .debug_aranges
+                0x00000810       0x90 libscp/src/csp_route.o
+ .debug_aranges
+                0x000008a0       0x58 libscp/src/csp_services.o
+ .debug_aranges
+                0x000008f8       0x28 libscp/src/csp_service_handler.o
+ .debug_aranges
+                0x00000920       0x28 libscp/src/csp_sfp.o
+ .debug_aranges
+                0x00000948       0x30 libscp/src/interfaces/csp_if_i2c.o
+ .debug_aranges
+                0x00000978       0x20 libscp/src/interfaces/csp_if_lo.o
+ .debug_aranges
+                0x00000998       0x18 libscp/src/transport/csp_rdp.o
+ .debug_aranges
+                0x000009b0       0x20 libscp/src/transport/csp_udp.o
+ .debug_aranges
+                0x000009d0       0x28 main.o
+ .debug_aranges
+                0x000009f8       0x20 mainTask.o
+ .debug_aranges
+                0x00000a18       0x30 MyDrivers/port_driver.o
+ .debug_aranges
+                0x00000a48       0xc8 MyDrivers/TC_driver.o
+ .debug_aranges
+                0x00000b10       0x70 MyDrivers/twi_master_driver.o
+ .debug_aranges
+                0x00000b80       0x60 MyDrivers/twi_slave_driver.o
+ .debug_aranges
+                0x00000be0       0x90 MyDrivers/usart_driver_RTOS.o
+ .debug_aranges
+                0x00000c70       0x28 system.o
+ .debug_aranges
+                0x00000c98       0x40 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_aranges
+                0x00000cd8       0x20 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_aranges
+                0x00000cf8       0xc0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_aranges
+                0x00000db8       0x28 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_aranges
+                0x00000de0       0x20 src/ASF/xmega/drivers/cpu/ccp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x15b3e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x8a9 cspTask.o
+ .debug_info    0x000008a9      0x8a7 csp_interface.o
+ .debug_info    0x00001150      0x1a5 FreeRTOS/Port/heap_1.o
+ .debug_info    0x000012f5      0xa2f FreeRTOS/Port/port.o
+ .debug_info    0x00001d24      0x781 FreeRTOS/Source/croutine.o
+ .debug_info    0x000024a5      0x2c8 FreeRTOS/Source/list.o
+ .debug_info    0x0000276d      0xe12 FreeRTOS/Source/queue.o
+ .debug_info    0x0000357f     0x17f7 FreeRTOS/Source/tasks.o
+ .debug_info    0x00004d76      0xf03 FreeRTOS/Source/timers.o
+ .debug_info    0x00005c79      0x12b libscp/src/arch/freertos/csp_malloc.o
+ .debug_info    0x00005da4      0x4b3 libscp/src/arch/freertos/csp_queue.o
+ .debug_info    0x00006257      0x46d libscp/src/arch/freertos/csp_semaphore.o
+ .debug_info    0x000066c4      0x331 libscp/src/arch/freertos/csp_system.o
+ .debug_info    0x000069f5      0x26d libscp/src/arch/freertos/csp_thread.o
+ .debug_info    0x00006c62      0x14b libscp/src/arch/freertos/csp_time.o
+ .debug_info    0x00006dad       0x64 libscp/src/crypto/csp_hmac.o
+ .debug_info    0x00006e11       0x64 libscp/src/crypto/csp_sha1.o
+ .debug_info    0x00006e75       0x64 libscp/src/crypto/csp_xtea.o
+ .debug_info    0x00006ed9      0x722 libscp/src/csp_buffer.o
+ .debug_info    0x000075fb      0xbb5 libscp/src/csp_conn.o
+ .debug_info    0x000081b0      0x3af libscp/src/csp_crc32.o
+ .debug_info    0x0000855f      0x4d8 libscp/src/csp_debug.o
+ .debug_info    0x00008a37      0x563 libscp/src/csp_endian.o
+ .debug_info    0x00008f9a      0xf60 libscp/src/csp_io.o
+ .debug_info    0x00009efa      0x403 libscp/src/csp_port.o
+ .debug_info    0x0000a2fd      0xedb libscp/src/csp_route.o
+ .debug_info    0x0000b1d8      0xe87 libscp/src/csp_services.o
+ .debug_info    0x0000c05f      0xeba libscp/src/csp_service_handler.o
+ .debug_info    0x0000cf19      0x797 libscp/src/csp_sfp.o
+ .debug_info    0x0000d6b0      0x6b6 libscp/src/interfaces/csp_if_i2c.o
+ .debug_info    0x0000dd66      0x3d1 libscp/src/interfaces/csp_if_lo.o
+ .debug_info    0x0000e137       0x6b libscp/src/transport/csp_rdp.o
+ .debug_info    0x0000e1a2      0x401 libscp/src/transport/csp_udp.o
+ .debug_info    0x0000e5a3      0x9cc main.o
+ .debug_info    0x0000ef6f      0x8e4 mainTask.o
+ .debug_info    0x0000f853      0x48c MyDrivers/port_driver.o
+ .debug_info    0x0000fcdf     0x1315 MyDrivers/TC_driver.o
+ .debug_info    0x00010ff4      0x8a3 MyDrivers/twi_master_driver.o
+ .debug_info    0x00011897      0x69b MyDrivers/twi_slave_driver.o
+ .debug_info    0x00011f32      0xf8d MyDrivers/usart_driver_RTOS.o
+ .debug_info    0x00012ebf      0xe57 system.o
+ .debug_info    0x00013d16      0x829 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_info    0x0001453f      0x119 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_info    0x00014658     0x13c2 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_info    0x00015a1a       0x92 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_info    0x00015aac       0x92 src/ASF/xmega/drivers/cpu/ccp.o
+
+.debug_abbrev   0x00000000     0x5458
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2da cspTask.o
+ .debug_abbrev  0x000002da      0x247 csp_interface.o
+ .debug_abbrev  0x00000521      0x148 FreeRTOS/Port/heap_1.o
+ .debug_abbrev  0x00000669      0x210 FreeRTOS/Port/port.o
+ .debug_abbrev  0x00000879      0x261 FreeRTOS/Source/croutine.o
+ .debug_abbrev  0x00000ada       0xf6 FreeRTOS/Source/list.o
+ .debug_abbrev  0x00000bd0      0x295 FreeRTOS/Source/queue.o
+ .debug_abbrev  0x00000e65      0x351 FreeRTOS/Source/tasks.o
+ .debug_abbrev  0x000011b6      0x2f9 FreeRTOS/Source/timers.o
+ .debug_abbrev  0x000014af       0xd8 libscp/src/arch/freertos/csp_malloc.o
+ .debug_abbrev  0x00001587      0x122 libscp/src/arch/freertos/csp_queue.o
+ .debug_abbrev  0x000016a9      0x131 libscp/src/arch/freertos/csp_semaphore.o
+ .debug_abbrev  0x000017da      0x1a1 libscp/src/arch/freertos/csp_system.o
+ .debug_abbrev  0x0000197b       0xe4 libscp/src/arch/freertos/csp_thread.o
+ .debug_abbrev  0x00001a5f       0x73 libscp/src/arch/freertos/csp_time.o
+ .debug_abbrev  0x00001ad2       0x26 libscp/src/crypto/csp_hmac.o
+ .debug_abbrev  0x00001af8       0x26 libscp/src/crypto/csp_sha1.o
+ .debug_abbrev  0x00001b1e       0x26 libscp/src/crypto/csp_xtea.o
+ .debug_abbrev  0x00001b44      0x255 libscp/src/csp_buffer.o
+ .debug_abbrev  0x00001d99      0x318 libscp/src/csp_conn.o
+ .debug_abbrev  0x000020b1      0x1c1 libscp/src/csp_crc32.o
+ .debug_abbrev  0x00002272      0x239 libscp/src/csp_debug.o
+ .debug_abbrev  0x000024ab      0x11f libscp/src/csp_endian.o
+ .debug_abbrev  0x000025ca      0x317 libscp/src/csp_io.o
+ .debug_abbrev  0x000028e1      0x1a6 libscp/src/csp_port.o
+ .debug_abbrev  0x00002a87      0x394 libscp/src/csp_route.o
+ .debug_abbrev  0x00002e1b      0x25c libscp/src/csp_services.o
+ .debug_abbrev  0x00003077      0x2d7 libscp/src/csp_service_handler.o
+ .debug_abbrev  0x0000334e      0x272 libscp/src/csp_sfp.o
+ .debug_abbrev  0x000035c0      0x20a libscp/src/interfaces/csp_if_i2c.o
+ .debug_abbrev  0x000037ca      0x17a libscp/src/interfaces/csp_if_lo.o
+ .debug_abbrev  0x00003944       0x26 libscp/src/transport/csp_rdp.o
+ .debug_abbrev  0x0000396a      0x1a2 libscp/src/transport/csp_udp.o
+ .debug_abbrev  0x00003b0c      0x2da main.o
+ .debug_abbrev  0x00003de6      0x2b0 mainTask.o
+ .debug_abbrev  0x00004096      0x118 MyDrivers/port_driver.o
+ .debug_abbrev  0x000041ae      0x176 MyDrivers/TC_driver.o
+ .debug_abbrev  0x00004324      0x2a2 MyDrivers/twi_master_driver.o
+ .debug_abbrev  0x000045c6      0x204 MyDrivers/twi_slave_driver.o
+ .debug_abbrev  0x000047ca      0x30a MyDrivers/usart_driver_RTOS.o
+ .debug_abbrev  0x00004ad4      0x27b system.o
+ .debug_abbrev  0x00004d4f      0x278 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_abbrev  0x00004fc7       0x90 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_abbrev  0x00005057      0x3db src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_abbrev  0x00005432       0x12 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_abbrev  0x00005444       0x14 src/ASF/xmega/drivers/cpu/ccp.o
+
+.debug_line     0x00000000     0x925f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x300 cspTask.o
+ .debug_line    0x00000300      0x2a7 csp_interface.o
+ .debug_line    0x000005a7      0x167 FreeRTOS/Port/heap_1.o
+ .debug_line    0x0000070e      0x327 FreeRTOS/Port/port.o
+ .debug_line    0x00000a35      0x35c FreeRTOS/Source/croutine.o
+ .debug_line    0x00000d91      0x1a2 FreeRTOS/Source/list.o
+ .debug_line    0x00000f33      0x74f FreeRTOS/Source/queue.o
+ .debug_line    0x00001682      0xc96 FreeRTOS/Source/tasks.o
+ .debug_line    0x00002318      0x4fa FreeRTOS/Source/timers.o
+ .debug_line    0x00002812      0x120 libscp/src/arch/freertos/csp_malloc.o
+ .debug_line    0x00002932      0x27f libscp/src/arch/freertos/csp_queue.o
+ .debug_line    0x00002bb1      0x26c libscp/src/arch/freertos/csp_semaphore.o
+ .debug_line    0x00002e1d      0x2d5 libscp/src/arch/freertos/csp_system.o
+ .debug_line    0x000030f2      0x137 libscp/src/arch/freertos/csp_thread.o
+ .debug_line    0x00003229      0x16a libscp/src/arch/freertos/csp_time.o
+ .debug_line    0x00003393       0x1a libscp/src/crypto/csp_hmac.o
+ .debug_line    0x000033ad       0x1a libscp/src/crypto/csp_sha1.o
+ .debug_line    0x000033c7       0x1a libscp/src/crypto/csp_xtea.o
+ .debug_line    0x000033e1      0x3e4 libscp/src/csp_buffer.o
+ .debug_line    0x000037c5      0x5f0 libscp/src/csp_conn.o
+ .debug_line    0x00003db5      0x231 libscp/src/csp_crc32.o
+ .debug_line    0x00003fe6      0x2c2 libscp/src/csp_debug.o
+ .debug_line    0x000042a8      0x428 libscp/src/csp_endian.o
+ .debug_line    0x000046d0      0x64d libscp/src/csp_io.o
+ .debug_line    0x00004d1d      0x2a7 libscp/src/csp_port.o
+ .debug_line    0x00004fc4      0x6e4 libscp/src/csp_route.o
+ .debug_line    0x000056a8      0x47a libscp/src/csp_services.o
+ .debug_line    0x00005b22      0x4ab libscp/src/csp_service_handler.o
+ .debug_line    0x00005fcd      0x330 libscp/src/csp_sfp.o
+ .debug_line    0x000062fd      0x1fb libscp/src/interfaces/csp_if_i2c.o
+ .debug_line    0x000064f8      0x101 libscp/src/interfaces/csp_if_lo.o
+ .debug_line    0x000065f9       0x1a libscp/src/transport/csp_rdp.o
+ .debug_line    0x00006613      0x1bd libscp/src/transport/csp_udp.o
+ .debug_line    0x000067d0      0x2b7 main.o
+ .debug_line    0x00006a87      0x32b mainTask.o
+ .debug_line    0x00006db2      0x1ca MyDrivers/port_driver.o
+ .debug_line    0x00006f7c      0x355 MyDrivers/TC_driver.o
+ .debug_line    0x000072d1      0x400 MyDrivers/twi_master_driver.o
+ .debug_line    0x000076d1      0x3a3 MyDrivers/twi_slave_driver.o
+ .debug_line    0x00007a74      0x627 MyDrivers/usart_driver_RTOS.o
+ .debug_line    0x0000809b      0x2b2 system.o
+ .debug_line    0x0000834d      0x353 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_line    0x000086a0      0x166 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_line    0x00008806      0x8cc src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_line    0x000090d2      0x11f src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_line    0x000091f1       0x6e src/ASF/xmega/drivers/cpu/ccp.o
+
+.debug_frame    0x00000000     0x2c40
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x24 cspTask.o
+ .debug_frame   0x00000024      0x138 csp_interface.o
+ .debug_frame   0x0000015c       0x60 FreeRTOS/Port/heap_1.o
+ .debug_frame   0x000001bc       0x64 FreeRTOS/Port/port.o
+ .debug_frame   0x00000220       0xc4 FreeRTOS/Source/croutine.o
+ .debug_frame   0x000002e4       0x7c FreeRTOS/Source/list.o
+ .debug_frame   0x00000360      0x208 FreeRTOS/Source/queue.o
+ .debug_frame   0x00000568      0x43c FreeRTOS/Source/tasks.o
+ .debug_frame   0x000009a4      0x160 FreeRTOS/Source/timers.o
+ .debug_frame   0x00000b04       0x34 libscp/src/arch/freertos/csp_malloc.o
+ .debug_frame   0x00000b38       0x94 libscp/src/arch/freertos/csp_queue.o
+ .debug_frame   0x00000bcc       0xbc libscp/src/arch/freertos/csp_semaphore.o
+ .debug_frame   0x00000c88       0xb8 libscp/src/arch/freertos/csp_system.o
+ .debug_frame   0x00000d40       0x48 libscp/src/arch/freertos/csp_thread.o
+ .debug_frame   0x00000d88       0x54 libscp/src/arch/freertos/csp_time.o
+ .debug_frame   0x00000ddc      0x118 libscp/src/csp_buffer.o
+ .debug_frame   0x00000ef4      0x224 libscp/src/csp_conn.o
+ .debug_frame   0x00001118       0xa8 libscp/src/csp_crc32.o
+ .debug_frame   0x000011c0       0xa4 libscp/src/csp_debug.o
+ .debug_frame   0x00001264      0x2a4 libscp/src/csp_endian.o
+ .debug_frame   0x00001508      0x2fc libscp/src/csp_io.o
+ .debug_frame   0x00001804       0x60 libscp/src/csp_port.o
+ .debug_frame   0x00001864      0x1a8 libscp/src/csp_route.o
+ .debug_frame   0x00001a0c      0x2e4 libscp/src/csp_services.o
+ .debug_frame   0x00001cf0       0x7c libscp/src/csp_service_handler.o
+ .debug_frame   0x00001d6c       0xf4 libscp/src/csp_sfp.o
+ .debug_frame   0x00001e60       0x98 libscp/src/interfaces/csp_if_i2c.o
+ .debug_frame   0x00001ef8       0x24 libscp/src/interfaces/csp_if_lo.o
+ .debug_frame   0x00001f1c       0x40 libscp/src/transport/csp_udp.o
+ .debug_frame   0x00001f5c       0x58 main.o
+ .debug_frame   0x00001fb4       0x34 mainTask.o
+ .debug_frame   0x00001fe8       0x50 MyDrivers/port_driver.o
+ .debug_frame   0x00002038      0x174 MyDrivers/TC_driver.o
+ .debug_frame   0x000021ac       0xf0 MyDrivers/twi_master_driver.o
+ .debug_frame   0x0000229c       0xc8 MyDrivers/twi_slave_driver.o
+ .debug_frame   0x00002364      0x494 MyDrivers/usart_driver_RTOS.o
+ .debug_frame   0x000027f8       0x6c system.o
+ .debug_frame   0x00002864       0x64 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_frame   0x000028c8       0x30 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_frame   0x000028f8      0x348 src/ASF/xmega/drivers/nvm/nvm.o
+
+.debug_str      0x00000000     0x554f
+ *(.debug_str)
+ .debug_str     0x00000000      0x4f2 cspTask.o
+                                0x577 (size before relaxing)
+ .debug_str     0x000004f2      0x4ca csp_interface.o
+                                0x6bc (size before relaxing)
+ .debug_str     0x000009bc       0xbe FreeRTOS/Port/heap_1.o
+                                0x236 (size before relaxing)
+ .debug_str     0x00000a7a      0x60f FreeRTOS/Port/port.o
+                                0x7fa (size before relaxing)
+ .debug_str     0x00001089      0x39e FreeRTOS/Source/croutine.o
+                                0x53e (size before relaxing)
+ .debug_str     0x00001427       0x62 FreeRTOS/Source/list.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00001489      0x3e9 FreeRTOS/Source/queue.o
+                                0x69a (size before relaxing)
+ .debug_str     0x00001872      0x5d1 FreeRTOS/Source/tasks.o
+                                0xad5 (size before relaxing)
+ .debug_str     0x00001e43      0x336 FreeRTOS/Source/timers.o
+                                0x76c (size before relaxing)
+ .debug_str     0x00002179       0x3d libscp/src/arch/freertos/csp_malloc.o
+                                0x1be (size before relaxing)
+ .debug_str     0x000021b6       0xe4 libscp/src/arch/freertos/csp_queue.o
+                                0x332 (size before relaxing)
+ .debug_str     0x0000229a      0x103 libscp/src/arch/freertos/csp_semaphore.o
+                                0x31a (size before relaxing)
+ .debug_str     0x0000239d      0x179 libscp/src/arch/freertos/csp_system.o
+                                0x346 (size before relaxing)
+ .debug_str     0x00002516       0x83 libscp/src/arch/freertos/csp_thread.o
+                                0x283 (size before relaxing)
+ .debug_str     0x00002599       0x59 libscp/src/arch/freertos/csp_time.o
+                                0x20b (size before relaxing)
+ .debug_str     0x000025f2       0x20 libscp/src/crypto/csp_hmac.o
+                                0x17e (size before relaxing)
+ .debug_str     0x00002612       0x20 libscp/src/crypto/csp_sha1.o
+                                0x17e (size before relaxing)
+ .debug_str     0x00002632       0x20 libscp/src/crypto/csp_xtea.o
+                                0x17e (size before relaxing)
+ .debug_str     0x00002652      0x140 libscp/src/csp_buffer.o
+                                0x3e2 (size before relaxing)
+ .debug_str     0x00002792      0x1d0 libscp/src/csp_conn.o
+                                0x534 (size before relaxing)
+ .debug_str     0x00002962       0x79 libscp/src/csp_crc32.o
+                                0x249 (size before relaxing)
+ .debug_str     0x000029db      0x170 libscp/src/csp_debug.o
+                                0x3d9 (size before relaxing)
+ .debug_str     0x00002b4b       0xeb libscp/src/csp_endian.o
+                                0x284 (size before relaxing)
+ .debug_str     0x00002c36      0x208 libscp/src/csp_io.o
+                                0x5fa (size before relaxing)
+ .debug_str     0x00002e3e       0x77 libscp/src/csp_port.o
+                                0x3a1 (size before relaxing)
+ .debug_str     0x00002eb5      0x1f4 libscp/src/csp_route.o
+                                0x6ee (size before relaxing)
+ .debug_str     0x000030a9      0x106 libscp/src/csp_services.o
+                                0x4cd (size before relaxing)
+ .debug_str     0x000031af       0xab libscp/src/csp_service_handler.o
+                                0x5b1 (size before relaxing)
+ .debug_str     0x0000325a       0x9f libscp/src/csp_sfp.o
+                                0x3c3 (size before relaxing)
+ .debug_str     0x000032f9       0x54 libscp/src/interfaces/csp_if_i2c.o
+                                0x391 (size before relaxing)
+ .debug_str     0x0000334d       0x2f libscp/src/interfaces/csp_if_lo.o
+                                0x2c0 (size before relaxing)
+ .debug_str     0x0000337c       0x22 libscp/src/transport/csp_rdp.o
+                                0x193 (size before relaxing)
+ .debug_str     0x0000339e       0x22 libscp/src/transport/csp_udp.o
+                                0x323 (size before relaxing)
+ .debug_str     0x000033c0       0x21 main.o
+                                0x53e (size before relaxing)
+ .debug_str     0x000033e1      0x1be mainTask.o
+                                0x4fe (size before relaxing)
+ .debug_str     0x0000359f      0x312 MyDrivers/port_driver.o
+                                0x54e (size before relaxing)
+ .debug_str     0x000038b1      0x697 MyDrivers/TC_driver.o
+                                0xcc0 (size before relaxing)
+ .debug_str     0x00003f48      0x2f9 MyDrivers/twi_master_driver.o
+                                0x678 (size before relaxing)
+ .debug_str     0x00004241      0x12f MyDrivers/twi_slave_driver.o
+                                0x570 (size before relaxing)
+ .debug_str     0x00004370      0x2ef MyDrivers/usart_driver_RTOS.o
+                                0x8e8 (size before relaxing)
+ .debug_str     0x0000465f      0x17a system.o
+                                0xafc (size before relaxing)
+ .debug_str     0x000047d9      0x3f5 src/ASF/common/services/clock/xmega/sysclk.o
+                                0x625 (size before relaxing)
+ .debug_str     0x00004bce       0x77 src/ASF/common/services/ioport/xmega/ioport_compat.o
+                                0x22d (size before relaxing)
+ .debug_str     0x00004c45      0x90a src/ASF/xmega/drivers/nvm/nvm.o
+                                0xb37 (size before relaxing)
+
+.debug_loc      0x00000000     0xcf97
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x6e cspTask.o
+ .debug_loc     0x0000006e      0x385 csp_interface.o
+ .debug_loc     0x000003f3       0xf1 FreeRTOS/Port/heap_1.o
+ .debug_loc     0x000004e4      0x281 FreeRTOS/Port/port.o
+ .debug_loc     0x00000765      0x3f9 FreeRTOS/Source/croutine.o
+ .debug_loc     0x00000b5e       0xfe FreeRTOS/Source/list.o
+ .debug_loc     0x00000c5c      0xc30 FreeRTOS/Source/queue.o
+ .debug_loc     0x0000188c     0x14c5 FreeRTOS/Source/tasks.o
+ .debug_loc     0x00002d51      0xad5 FreeRTOS/Source/timers.o
+ .debug_loc     0x00003826       0x4c libscp/src/arch/freertos/csp_malloc.o
+ .debug_loc     0x00003872      0x276 libscp/src/arch/freertos/csp_queue.o
+ .debug_loc     0x00003ae8      0x294 libscp/src/arch/freertos/csp_semaphore.o
+ .debug_loc     0x00003d7c      0x311 libscp/src/arch/freertos/csp_system.o
+ .debug_loc     0x0000408d      0x167 libscp/src/arch/freertos/csp_thread.o
+ .debug_loc     0x000041f4      0x4a3 libscp/src/csp_buffer.o
+ .debug_loc     0x00004697      0xa8f libscp/src/csp_conn.o
+ .debug_loc     0x00005126      0x30f libscp/src/csp_crc32.o
+ .debug_loc     0x00005435      0x279 libscp/src/csp_debug.o
+ .debug_loc     0x000056ae      0x782 libscp/src/csp_endian.o
+ .debug_loc     0x00005e30     0x13d5 libscp/src/csp_io.o
+ .debug_loc     0x00007205      0x1f1 libscp/src/csp_port.o
+ .debug_loc     0x000073f6      0x85c libscp/src/csp_route.o
+ .debug_loc     0x00007c52      0xe05 libscp/src/csp_services.o
+ .debug_loc     0x00008a57      0x4eb libscp/src/csp_service_handler.o
+ .debug_loc     0x00008f42      0x69f libscp/src/csp_sfp.o
+ .debug_loc     0x000095e1      0x2e7 libscp/src/interfaces/csp_if_i2c.o
+ .debug_loc     0x000098c8       0x88 libscp/src/interfaces/csp_if_lo.o
+ .debug_loc     0x00009950       0xe3 libscp/src/transport/csp_udp.o
+ .debug_loc     0x00009a33       0x96 main.o
+ .debug_loc     0x00009ac9       0xd1 mainTask.o
+ .debug_loc     0x00009b9a      0x15d MyDrivers/port_driver.o
+ .debug_loc     0x00009cf7      0x378 MyDrivers/TC_driver.o
+ .debug_loc     0x0000a06f      0x631 MyDrivers/twi_master_driver.o
+ .debug_loc     0x0000a6a0      0x3df MyDrivers/twi_slave_driver.o
+ .debug_loc     0x0000aa7f     0x1098 MyDrivers/usart_driver_RTOS.o
+ .debug_loc     0x0000bb17       0xa4 system.o
+ .debug_loc     0x0000bbbb      0x235 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_loc     0x0000bdf0       0x66 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_loc     0x0000be56     0x1141 src/ASF/xmega/drivers/nvm/nvm.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xbe8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 cspTask.o
+ .debug_ranges  0x00000028       0x40 csp_interface.o
+ .debug_ranges  0x00000068       0x28 FreeRTOS/Port/heap_1.o
+ .debug_ranges  0x00000090       0x30 FreeRTOS/Port/port.o
+ .debug_ranges  0x000000c0       0x40 FreeRTOS/Source/croutine.o
+ .debug_ranges  0x00000100       0x30 FreeRTOS/Source/list.o
+ .debug_ranges  0x00000130       0x80 FreeRTOS/Source/queue.o
+ .debug_ranges  0x000001b0      0x148 FreeRTOS/Source/tasks.o
+ .debug_ranges  0x000002f8       0xa8 FreeRTOS/Source/timers.o
+ .debug_ranges  0x000003a0       0x18 libscp/src/arch/freertos/csp_malloc.o
+ .debug_ranges  0x000003b8       0x48 libscp/src/arch/freertos/csp_queue.o
+ .debug_ranges  0x00000400       0x50 libscp/src/arch/freertos/csp_semaphore.o
+ .debug_ranges  0x00000450       0x30 libscp/src/arch/freertos/csp_system.o
+ .debug_ranges  0x00000480       0x10 libscp/src/arch/freertos/csp_thread.o
+ .debug_ranges  0x00000490       0x28 libscp/src/arch/freertos/csp_time.o
+ .debug_ranges  0x000004b8       0x48 libscp/src/csp_buffer.o
+ .debug_ranges  0x00000500       0x90 libscp/src/csp_conn.o
+ .debug_ranges  0x00000590       0x20 libscp/src/csp_crc32.o
+ .debug_ranges  0x000005b0       0x30 libscp/src/csp_debug.o
+ .debug_ranges  0x000005e0       0x98 libscp/src/csp_endian.o
+ .debug_ranges  0x00000678       0x88 libscp/src/csp_io.o
+ .debug_ranges  0x00000700       0x28 libscp/src/csp_port.o
+ .debug_ranges  0x00000728       0x80 libscp/src/csp_route.o
+ .debug_ranges  0x000007a8       0x48 libscp/src/csp_services.o
+ .debug_ranges  0x000007f0       0x18 libscp/src/csp_service_handler.o
+ .debug_ranges  0x00000808       0x48 libscp/src/csp_sfp.o
+ .debug_ranges  0x00000850       0x20 libscp/src/interfaces/csp_if_i2c.o
+ .debug_ranges  0x00000870       0x10 libscp/src/interfaces/csp_if_lo.o
+ .debug_ranges  0x00000880       0x10 libscp/src/transport/csp_udp.o
+ .debug_ranges  0x00000890       0x18 main.o
+ .debug_ranges  0x000008a8       0x10 mainTask.o
+ .debug_ranges  0x000008b8       0x20 MyDrivers/port_driver.o
+ .debug_ranges  0x000008d8       0xb8 MyDrivers/TC_driver.o
+ .debug_ranges  0x00000990       0x60 MyDrivers/twi_master_driver.o
+ .debug_ranges  0x000009f0       0x50 MyDrivers/twi_slave_driver.o
+ .debug_ranges  0x00000a40       0x80 MyDrivers/usart_driver_RTOS.o
+ .debug_ranges  0x00000ac0       0x18 system.o
+ .debug_ranges  0x00000ad8       0x30 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_ranges  0x00000b08       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_ranges  0x00000b18       0xb0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_ranges  0x00000bc8       0x20 src/ASF/xmega/drivers/nvm/nvm_asm.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(main.elf elf32-avr)
+LOAD linker stubs
